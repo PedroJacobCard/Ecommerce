@@ -124,4 +124,5 @@ body {
     filter: opacity(0.8);
     background-size: cover;
     background-position: top 25% right 0;
+    padding: 0 80px;
 }
