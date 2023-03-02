@@ -108,7 +108,7 @@ body {
 
 .cake {
     width: 100%;
-    height: auto;
+    height: 50hv;
     position: relative;
     display: flex;
 }
