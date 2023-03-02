@@ -107,6 +107,8 @@ body {
 /*here starts hero section*/
 
 .cake {
+    align-items: center;
+    justify-content: center;
     position: relative;
     display: flex;
 }
