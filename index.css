@@ -230,7 +230,7 @@ p {
 
 #product1 .pro-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: inline;
     padding-top: 20px;
     flex-wrap: wrap;
 }
