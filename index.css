@@ -125,4 +125,7 @@ body {
     background-size: cover;
     background-position: top 25% right 0;
     padding: 0 80px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
 }
