@@ -257,3 +257,9 @@ p {
     color: var(--secondary-color);
     font-size: 16px;
 }
+
+#product1 .pro .des h3 {
+    font-family: var(--primary-font);
+    color: var(--secondary-color);
+    font-size: 18px;
+}
