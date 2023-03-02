@@ -226,7 +226,7 @@ p {
     text-align: center;
 }
 
-#product1 img {
+#product1 .pro img {
     width: 40%;
     height: 40%;
     margin-bottom: 5px;
@@ -238,8 +238,4 @@ p {
     padding: 10px 12p;
     border: 1px solid black;
     margin: 40px 80px;
-}
-
-.section-mg1 {
-    
 }
