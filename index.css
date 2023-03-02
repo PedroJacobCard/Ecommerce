@@ -260,6 +260,6 @@ p {
 
 #product1 .pro .des h3 {
     font-family: var(--primary-font);
-    color: var(--secondary-color);
+    color: var(--primary-color);
     font-size: 18px;
 }
