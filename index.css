@@ -107,8 +107,8 @@ body {
 /*here starts hero section*/
 
 .cake {
-    width: 100%;
-    height: -20%;
+    width: 80%;
+    height: 0;
     align-items: center;
     justify-content: center;
     position: relative;
