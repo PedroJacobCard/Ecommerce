@@ -121,4 +121,5 @@ body {
     background-image: url("images/delicious-cake.JPEG");
     height: 90vh;
     width: 100%;
+    opacity: 0.6;
 }
