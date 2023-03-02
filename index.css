@@ -236,7 +236,10 @@ p {
 #product1 .pro {
     width: 23%;
     min-width: 250px;
-    padding: 10px 12p;
+    padding: 10px 12px;
     border: 1px solid black;
     margin: 40px 80px;
+    border-radius: 6px;
+    cursor: pointer;
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
 }
