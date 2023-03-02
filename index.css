@@ -282,7 +282,9 @@ p {
     width: 40px;
     height: 40px;
     line-height: 40px;
-    border-radius: 50px;
+    border-radius: 90px;
     font-weight: 500;
+    background-color: var(--primary-color);
     color: var(--secondary-color);
+    position: absolute;
 }
