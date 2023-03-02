@@ -279,8 +279,8 @@ p {
 }
 
 #product1 .pro .cart {
-    width: -5px;
-    height: -5px;
+    width: 0px;
+    height: 0px;
     line-height: 40px;
     border-radius: 40px;
     font-weight: 500;
