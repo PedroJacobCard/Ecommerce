@@ -287,7 +287,6 @@ p {
     color: var(--secondary-color);
     position: absolute;
     align-items: flex-end;
-    top: 5px;
-    bottom: 20px;
+    bottom: 10px;
     right: 10px;
 }
