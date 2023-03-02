@@ -152,3 +152,8 @@ p {
     margin-top: 1rem;
     cursor: pointer;
 }
+
+.feature-images {
+    width: 20%;
+    height: 20%;
+}
