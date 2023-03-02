@@ -114,4 +114,5 @@ body {
     position: relative;
     display: flex;
     opacity: 0.6;
+    z-index: 1;
 }
