@@ -233,6 +233,10 @@ p {
     margin-bottom: 5px;
 }
 
+#product1 .pro img:hover {
+    transform: scale(1.1)
+}
+
 #product1 .pro {
     width: 23%;
     min-width: 250px;
