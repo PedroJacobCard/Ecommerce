@@ -231,8 +231,6 @@ p {
 #product1 .pro-container {
     display: flex;
     justify-content: inline;
-    align-items: center;
-    margin: 0 auto;
     padding-top: 20px;
     flex-wrap: wrap;
 }
