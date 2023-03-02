@@ -283,7 +283,6 @@ p {
     height: 40px;
     line-height: 40px;
     border-radius: 50px;
-    background-color: var(--primary-color);
     font-weight: 500;
     color: var(--secondary-color);
 }
