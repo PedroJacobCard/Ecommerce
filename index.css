@@ -286,7 +286,7 @@ p {
     font-weight: 500;
     color: var(--secondary-color);
     background-color: #e84624;
-    background-position: start;
+    background-position: initial;
     position: absolute;
     align-items: flex-end;
     bottom: 10px;
