@@ -166,4 +166,7 @@ p {
     width: 180px;
     text-align: center;
     padding: 25px 15px;
+    background-color: #e84624;
+    box-shadow: 20px 20px 34px #e8a726;
+    border: 1px solid black;
 }
