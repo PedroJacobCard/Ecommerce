@@ -185,6 +185,12 @@ p {
     margin-bottom: 10px;
 }
 
+#feature .fe-box .img-litt {
+    width: 70%;
+    height: 70%;
+    margin-bottom: 20px;
+}
+
 #feature .fe-box h3 {
     font-family: var(--primary-font);
     color: var(--secondary-color);
