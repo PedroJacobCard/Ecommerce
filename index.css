@@ -121,7 +121,7 @@ body {
     background-image: url("images/cake.jpeg");
     height: 85vh;
     width: 100%;
-    filter: blur(6px);
+    filter: opacity(0.2);
     background-size: cover;
     background-position: top 25% right 0;
 }
