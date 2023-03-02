@@ -118,7 +118,7 @@ body {
 }
 
 #hero {
-    background-image: url("images/cakes.jpeg, images/delicious-cake.JPEG");
+    background-image: url("images/cakes.jpeg");
     height: 90vh;
     width: 100%;
 }
