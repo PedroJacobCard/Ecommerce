@@ -157,6 +157,13 @@ p {
     padding: 40px 80px;
 }
 
+#feature {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
 #feature .fe-box {
     width: 180px;
     text-align: center;
