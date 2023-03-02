@@ -130,3 +130,8 @@ body {
     align-items: flex-end;
     justify-content: center;
 }
+
+p {
+    font-size: 16px;
+    color: var(--secondary-color);
+}
