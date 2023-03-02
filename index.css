@@ -143,7 +143,7 @@ p {
     background-position: center;
     background-repeat: no-repeat;
     color: var(--secondary-color);
-    border: 0;
-    padding: 8px 30px 8px 80px;
+    border-radius: 2%;
+    padding: 8px;
     cursor: pointer
 }
