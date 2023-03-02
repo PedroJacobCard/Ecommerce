@@ -170,3 +170,9 @@ p {
     box-shadow: 20px 20px 34px #e8a726;
     border: 1px solid black;
 }
+
+.h3-feature {
+    font-family: var(--primary-font);
+    color: var(--secondary-color);
+    font-size: 18px;
+}
