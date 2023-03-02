@@ -227,6 +227,12 @@ p {
     text-align: center;
 }
 
+#product1 .pro-container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
 #product1 .pro img {
     width: 60%;
     height: 60%;
