@@ -121,7 +121,7 @@ body {
     background-image: url("images/cake.jpeg");
     height: 90vh;
     width: 100%;
-    background-clip: var(--primary-color);
+    fill-opacity: 0.2;
     background-size: cover;
     background-position: top 25% right 0;
 }
