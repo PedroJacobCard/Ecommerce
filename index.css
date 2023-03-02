@@ -113,4 +113,5 @@ body {
     justify-content: center;
     position: relative;
     display: flex;
+    opacity: 1;
 }
