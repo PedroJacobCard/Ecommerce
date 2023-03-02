@@ -157,3 +157,7 @@ p {
     width: 10%;
     height: 10%;
 }
+
+.section-pd1 {
+    padding: 40px 80px;
+}
