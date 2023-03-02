@@ -156,6 +156,7 @@ p {
 .feature-images {
     width: 70%;
     height: 70%;
+    background: transparent;
 }
 
 .section-pd1 {
