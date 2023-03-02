@@ -132,7 +132,11 @@ body {
 }
 
 p {
-    font-size: 18px;
+    font-size: 20px;
     font-family: var(--secondary-font);
     color: var(--secondary-color);
+}
+
+#hero button {
+    background-image: url("images/button.png");
 }
