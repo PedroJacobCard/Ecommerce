@@ -140,4 +140,8 @@ p {
 #hero button { 
     background-image: url("images/button.png");
     background-color: transparent;
+    font-size: 20px;
+    color: var(--secondary-color);
+    border: 0;
+    padding: 14px 80px 14px 65px;
 }
