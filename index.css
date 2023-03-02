@@ -281,10 +281,8 @@ p {
 #product1 .pro .cart {
     width: 40px;
     height: 40px;
-    align-items: center;
-    justify-content: center;
     line-height: 40px;
-    border-radius: 90px;
+    border-radius: 100px;
     font-weight: 500;
     background-color: var(--primary-color);
     color: var(--secondary-color);
