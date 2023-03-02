@@ -49,6 +49,7 @@ body {
     width: 100%;
 }
 
+/* home page */
 /* here starts header*/
 
 .logo {
@@ -114,4 +115,8 @@ body {
     position: absolute;
     opacity: 0.6;
     z-index: 2;
+}
+
+#hero {
+    background-image: url("C:\Users\pedro\.git\Ecommerce\images\delicious-cake.JPEG");
 }
