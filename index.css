@@ -222,19 +222,14 @@ p {
     font-size: 18px;
 }
 
-.section-pd2 {
-    padding: 50px 100px;
-}
-
 #product1 {
     padding: 40px 80px;
-    align-items: center;
-
+    text-align: center;
 }
 
 #product1 .pro-container {
     display: flex;
-    justify-content: inline;
+    justify-content: inline-flex;
     padding-top: 20px;
     flex-wrap: wrap;
 }
