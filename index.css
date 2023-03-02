@@ -281,13 +281,9 @@ p {
 #product1 .pro .cart {
     width: 40px;
     height: 40px;
-    align-items: center;
-    justify-content: center;
-    padding: 0 auto;
     line-height: 40px;
     border-radius: 100px;
     font-weight: 500;
-    background-color: var(--primary-color);
     color: var(--secondary-color);
     position: absolute;
 }
