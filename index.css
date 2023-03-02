@@ -285,6 +285,7 @@ p {
     border-radius: 100px;
     font-weight: 500;
     color: var(--secondary-color);
+    background-color: #e84624;
     position: absolute;
     align-items: flex-end;
     bottom: 10px;
