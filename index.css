@@ -186,3 +186,13 @@ p {
     color: var(--secondary-color);
     font-size: 18px;
 }
+
+#product1 {
+    text-align: center;
+}
+
+#product1 img {
+    width: 70%;
+    height: 70%;
+    margin-bottom: 10px;
+}
