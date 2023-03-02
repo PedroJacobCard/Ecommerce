@@ -133,5 +133,6 @@ body {
 
 p {
     font-size: 18px;
+    font-family: var(--secondary-font);
     color: var(--secondary-color);
 }
