@@ -245,7 +245,7 @@ p {
     margin: 40px 80px;
     border-radius: 6px;
     cursor: pointer;
-    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.09);
 }
 
 #product1 .pro .des {
