@@ -240,6 +240,7 @@ p {
 #product1 .pro img {
     width: 95%;
     height: 50%;
+    border-radius: 6px;
     margin-bottom: 5px;
 }
 
