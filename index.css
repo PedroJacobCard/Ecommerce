@@ -177,7 +177,7 @@ p {
     transform: scale(1.1);
 }
 
-.h3-feature {
+#feature .fe-box h3 {
     font-family: var(--primary-font);
     color: var(--secondary-color);
     font-size: 18px;
