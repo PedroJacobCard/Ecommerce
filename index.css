@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Playfair+Display&display=swap');
+
+:root {
+--primary-font: 'Climate Crisis', sans-serif;
+--secondary-font: 'Playfair Display' sans-serif;
+--primary-color: #e84624;
+--secondary-color: #e8a726;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: var(--secondary-font);
+}
+
+h1 {
+    font-family: var(--primary-font);
+    color: var(--primary-color);
+    font-size: 42px;
+}
+
+h2 {
+    font-family: var(--primary-font);
+    color: var(--primary-color);
+    font-size: 36px; 
+}
+
+h3 {
+    font-family: var(--primary-font);
+    color: var(--primary-color);
+    font-size: 18px; 
+}
+
+h4 {
+    font-family: var(--secondary-font);
+    color: var(--secondary-color);
+    font-size: 24px; 
+}
+
+h5 {
+    font-family: var(--secondary-font);
+    color: var(--secondary-color);
+    font-size: 18px;
+}
+
+body {
+    width: 100%;
+}
+
+/* here starts header*/
+
+.logo {
+    height: 30%;
+    width: 30%;
+    margin: -4rem;
+    padding: 0;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background-color: var(--primary-color);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+}
+
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#navbar li {
+    list-style: none;
+    padding: 0 20px;
+    font-family: var(--secondary-font);
+}
+
+#navbar li a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--secondary-color)
+}
