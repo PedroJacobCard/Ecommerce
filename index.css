@@ -144,6 +144,6 @@ p {
     background-repeat: no-repeat;
     color: var(--secondary-color);
     border: 0;
-    padding: 14px 80px 14px px;
+    padding: 8px 30px 8px 80px;
     cursor: pointer
 }
