@@ -137,6 +137,6 @@ p {
     color: var(--secondary-color);
 }
 
-#hero button {
+#hero button { 
     background-image: url("images/button.png");
 }
