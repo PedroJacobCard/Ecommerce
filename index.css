@@ -265,7 +265,7 @@ p {
 }
 
 #product1 .pro .des h5 {
-    font-family: var(--primary-font);
+    font-family: var(--secondary-font);
     color: var(--primary-color);
     font-size: 18px;
 }
