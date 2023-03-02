@@ -138,7 +138,7 @@ p {
 }
 
 #hero button { 
-    background-image: url("images/button.png");
+    background-image: url("images/logo.png");
     font-size: 20px;
     color: var(--secondary-color);
     border: 0;
