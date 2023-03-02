@@ -286,4 +286,5 @@ p {
     font-weight: 500;
     color: var(--secondary-color);
     position: absolute;
+    display: flex-end;
 }
