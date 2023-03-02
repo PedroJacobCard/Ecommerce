@@ -94,7 +94,7 @@ body {
 }
 
 #navbar li a.active::after, 
-#navbar li a.active:hover {
+#navbar li a.active:hover::after {
     content: "";
     width: 30%;
     height: 2px;
