@@ -107,8 +107,6 @@ body {
 /*here starts hero section*/
 
 .cake {
-    width: 100%;
-    height: 20%;
     position: relative;
     display: flex;
 }
