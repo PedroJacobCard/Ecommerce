@@ -264,6 +264,12 @@ p {
     font-size: 18px;
 }
 
+#product1 .pro .des h5 {
+    font-family: var(--primary-font);
+    color: var(--primary-color);
+    font-size: 18px;
+}
+
 #product1 .pro .des i {
     font-size: 20px;
     color:#f5be10;
