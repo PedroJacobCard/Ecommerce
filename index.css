@@ -121,4 +121,6 @@ body {
     background-image: url("images/cake.jpeg");
     height: 90vh;
     width: 100%;
+    background-size: cover;
+    background-position: top 25% right 0;
 }
