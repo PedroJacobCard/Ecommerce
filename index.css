@@ -295,3 +295,8 @@ p {
     box-shadow:  20px 20px 60px #bebebe,
     -20px -20px 60px #ffffff;
 }
+
+#product1 .pro .cart:hover {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}
