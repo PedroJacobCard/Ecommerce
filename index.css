@@ -91,3 +91,13 @@ body {
 #navbar li a.active {
     color: black;
 }
+
+#navbar li a::after {
+    content: "";
+    width: 30%;
+    height: 2px;
+    background-color: black;
+    position: absolute;
+    bottom: -4px;
+    left: 20px;
+}
