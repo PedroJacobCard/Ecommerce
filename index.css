@@ -175,6 +175,7 @@ p {
 #hero button:hover {
     color: #ffffff;
     transform: scale(1.1);
+    transition:  0.5s ease;
 }
 
 .section-pd1 {
@@ -345,7 +346,7 @@ p {
 #banner button:hover {
     color: #ffffff;
     transform: scale(1.1);
-    transition:  0.3s ease;
+    transition:  0.5s ease;
 }
 
 #banner span {
