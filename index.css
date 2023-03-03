@@ -390,3 +390,9 @@ p {
     -webkit-animation: color-change-5x 8s linear infinite alternate both;
 	        animation: color-change-5x 8s linear infinite alternate both;
 }
+
+#sm-banner button:hover {
+    color: #ffffff;
+    transform: scale(1.1);
+    transition:  0.5s ease;
+}
