@@ -311,3 +311,18 @@ p {
     background-color: var(--secondary-color);
     color: var(--primary-color);
 }
+
+/* here starts banner */
+
+#banner button {
+    font-size: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;
+    border-radius: 6px;
+    padding: 8px 80px;
+    margin-top: 1rem;
+    cursor: pointer;
+    -webkit-animation: color-change-5x 8s linear infinite alternate both;
+	        animation: color-change-5x 8s linear infinite alternate both;
+}
