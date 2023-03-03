@@ -357,6 +357,7 @@ p {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 #sm-banner .banner-box {
