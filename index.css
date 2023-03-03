@@ -324,7 +324,6 @@ p {
     padding: 10% 0;
     background-size: cover;
     background-position: top 25% right 0;
-    -moz-background-clip: white;
 }
 
 #banner button {
