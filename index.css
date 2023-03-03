@@ -374,7 +374,7 @@ p {
 }
 
 #sm-banner span {
-    color: var(--primary-color);
+    color: var(--secondary-color);
     font-size: 20px;
 }
 
