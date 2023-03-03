@@ -205,7 +205,8 @@ p {
 
 #feature .fe-box:hover {
     box-shadow: 10px 10px 54px #e8a726;
-    transform: scale(1.1) ease;
+    transform: scale(1.1);
+    transition: 0.5 ease;
 }
 
 #feature .fe-box img {
