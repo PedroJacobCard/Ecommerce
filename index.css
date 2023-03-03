@@ -115,7 +115,6 @@ body {
     background-image: url("images/pacote-de-paezinhos-frescos.jpg");
     height: 85vh;
     width: 100%;
-    filter: opacity(0.9);
     background-size: cover;
     background-position: top 25% right 0;
     padding: 0 80px;
