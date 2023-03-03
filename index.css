@@ -383,7 +383,7 @@ p {
     background-position: center;
     background: transparent;
     color: var(--primary-color);
-    border: #e84624;
+    border: 1px #e84624;
     border-radius: 6px;
     padding: 8px 20px;
     margin-top: 1rem;
