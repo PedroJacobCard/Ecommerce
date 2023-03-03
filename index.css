@@ -431,3 +431,31 @@ p {
     margin: 1% 1% 20px;
     padding: 20px; 
 }
+
+#banner3 .banner-box-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    background-image: url("images/products/coold-sorvete-doce-com-chocolate.jpg");
+    min-width: 30%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    margin: 1% 1% 20px;
+    padding: 20px; 
+}
+
+#banner3 .banner-box-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    background-image: url("images/products/pretzels-de-vista-superior-no-cafe-da-manha.jpg");
+    min-width: 30%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+    margin: 1% 1% 20px;
+    padding: 20px; 
+}
