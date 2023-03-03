@@ -462,7 +462,7 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: start;
     background-image: url("images/newsletter.png");
     padding: 5% 0;
     background-size: cover;
