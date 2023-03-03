@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Playfair+Display&display=swap');
 
 :root {
---primary-font: 'Climate Crisis', sans-serif;
+--primary-font: 'Alfa Slab One', sans-serif;
 --secondary-font: 'Playfair Display' sans-serif;
 --primary-color: #e84624;
 --secondary-color: #e8a726;
