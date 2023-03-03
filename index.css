@@ -324,7 +324,7 @@ p {
     padding: 10% 0;
     background-size: cover;
     background-position: top 25% right 0;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.353);
 }
 
 #banner button {
