@@ -344,7 +344,8 @@ p {
 
 #banner button:hover {
     color: #ffffff;
-    transform: scale(1.0,5);
+    transform: scale(1.1);
+    transition: ease 2s;
 }
 
 #banner span {
