@@ -363,8 +363,7 @@ p {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    text-align: center;
+    align-items: start;
     background-image: url("images/products/variedade-de-pedacos-de-bolo.jpg");
     min-width: 655px;
     height: 50vh;
