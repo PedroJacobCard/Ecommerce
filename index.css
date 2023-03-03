@@ -373,6 +373,20 @@ p {
     padding: 30px;
 }
 
+#sm-banner .banner-box-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    background-image: url("images/products/deliciosos-sanduiches-de-frente-com-abacate-e-tomate-vermelho-sobre-fundo-cinza.jpg");
+    min-width: 655px;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    margin: 1% 1%;
+    padding: 30px;
+}
+
 #sm-banner span {
     color: var(--secondary-color);
     font-size: 20px;
