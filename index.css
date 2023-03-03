@@ -372,3 +372,8 @@ p {
     margin: 1% 1%;
     padding: 30px;
 }
+
+#sm-banner span {
+    color: var(--primary-color);
+    font-size: 20px;
+}
