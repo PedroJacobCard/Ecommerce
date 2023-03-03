@@ -322,6 +322,8 @@ p {
     text-align: center;
     background-image: url("images/products/variedade-de-pao-em-madeira.jpg");
     padding: 10% 0;
+    background-size: cover;
+    background-position: top 25% right 0;
 }
 
 #banner button {
