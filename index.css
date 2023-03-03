@@ -352,3 +352,15 @@ p {
 #banner span {
     color: var(--secondary-color);
 }
+
+#sm-banner .banner-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url("images/products/variedade-de-pao-em-madeira.jpg");
+    padding: 10% 0;
+    background-size: cover;
+    background-position: top 25% right 0;
+}
