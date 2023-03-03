@@ -366,9 +366,9 @@ p {
     align-items: center;
     text-align: center;
     background-image: url("images/products/variedade-de-pedacos-de-bolo.jpg");
-    min-width: 580px;
+    min-width: 600px;
     height: 50vh;
     background-size: cover;
     background-position: center;
-    margin: 0 4%;
+    margin: 0 2%;
 }
