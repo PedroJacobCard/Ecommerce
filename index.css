@@ -384,7 +384,7 @@ p {
     background-repeat: no-repeat;
     color: black;
     border-radius: 6px;
-    padding: 8px 50px;
+    padding: 8px 20px;
     margin-top: 1rem;
     cursor: pointer;
     -webkit-animation: color-change-5x 8s linear infinite alternate both;
