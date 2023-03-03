@@ -411,6 +411,12 @@ p {
     transition:  0.5s ease;
 }
 
+#banner3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 #banner3 .banner-box {
     display: flex;
     flex-direction: column;
