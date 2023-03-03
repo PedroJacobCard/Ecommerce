@@ -410,3 +410,17 @@ p {
     transform: scale(1.1);
     transition:  0.5s ease;
 }
+
+#banner3 .banner-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    background-image: url("images/products/rosquinhas-coloridas-e-saborosas.jpg");
+    min-width: 250px;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    margin: 1% 1%;
+    padding: 30px; 
+}
