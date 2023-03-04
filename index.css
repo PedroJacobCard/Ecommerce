@@ -478,6 +478,8 @@ p {
 
 #newsletter .form {
     margin: 0 10%;
+    display: flex;
+    width: 40%;
 }
 
 #newsletter input {
@@ -497,6 +499,5 @@ p {
     color: var(--secondary-color);
     border-radius: 6px;
     padding: 8px 20px;
-    margin-top: 1rem;
     cursor: pointer;
 }
