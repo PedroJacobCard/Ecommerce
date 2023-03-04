@@ -522,3 +522,15 @@ footer img {
 footer h5 {
     margin: 1rem;
 }
+
+footer p {
+    margin: 0 1rem;
+}
+
+footer span {
+    font-weight: bold;
+}
+
+footer i {
+    margin: 0 1rem;
+}
