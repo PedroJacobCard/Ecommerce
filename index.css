@@ -531,7 +531,7 @@ footer span {
     font-weight: bold;
 }
 
-footer i {
+footer .col {
     justify-content: space-between;
     margin-left: 1rem;
 }
