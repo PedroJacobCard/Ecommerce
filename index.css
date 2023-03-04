@@ -519,6 +519,10 @@ footer img {
     padding: 0;
 }
 
+footer h5 {
+    margin: 1rem 0;
+}
+
 footer span {
     font-weight: bold;
 }
