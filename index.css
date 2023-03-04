@@ -459,10 +459,9 @@ p {
 
 #newsletter {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
     align-items: center;
-    text-align: ;
     background-image: url("images/newsletter.png");
     padding: 5% 0;
     background-size: cover;
