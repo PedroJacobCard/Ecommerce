@@ -466,6 +466,7 @@ p {
     padding: 5% 0;
     background-size: cover;
     background-position: top 40% right 0;
+    bottom: 10%;
 }
 
 #newsletter .newstext {
