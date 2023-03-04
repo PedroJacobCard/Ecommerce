@@ -479,7 +479,7 @@ p {
 #newsletter .form {
     margin: 0 10%;
     display: flex;
-    width: 30%;
+    width: 40%;
 }
 
 #newsletter input {
@@ -494,6 +494,7 @@ p {
 
 #newsletter button {
     font-size: 16px;
+    text-align: justify;
     background-color: var(--primary-color);
     color: var(--secondary-color);
     border-radius: 6px;
