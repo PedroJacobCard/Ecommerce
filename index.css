@@ -490,6 +490,8 @@ p {
     border: 1px solid var(--primary-color);
     border-radius: 6px;
     outline: none;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 #newsletter button {
@@ -500,5 +502,6 @@ p {
     border-radius: 6px;
     padding: 6px 22px;
     cursor: pointer;
-    
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
 }
