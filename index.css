@@ -475,3 +475,7 @@ p {
 #newsletter .newstext span {
     color: var(--primary-color);
 }
+
+#newsletter .newstext .form {
+    padding: 0 5%;
+}
