@@ -500,6 +500,7 @@ p {
     background-color: var(--primary-color);
     color: var(--secondary-color);
     border-radius: 6px;
+    white-space: nowrap;
     padding: 6px 22px;
     cursor: pointer;
     border-top-left-radius: 0;
