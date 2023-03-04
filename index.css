@@ -498,6 +498,6 @@ p {
     background-color: var(--primary-color);
     color: var(--secondary-color);
     border-radius: 6px;
-    padding: 8px 20px;
+    padding: 6px 20px;
     cursor: pointer;
 }
