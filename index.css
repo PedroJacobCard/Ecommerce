@@ -252,7 +252,7 @@ p {
     width: 22%;
     min-width: 250px;
     padding: 20px 12px;
-    border: 1px solid black;
+    border: 1px solid var(--primary-color);
     margin: 40px 15px;
     border-radius: 6px;
     cursor: pointer;
@@ -478,4 +478,14 @@ p {
 
 #newsletter .form {
     margin: 0 10%;
+}
+
+#newsletter input {
+    height: 3.125rem;
+    padding: 0 1.25em;
+    font-size: 14px;
+    width: 100%;
+    border: 1px solid var(--primary-color);
+    border-radius: 6px;
+    outline: none;
 }
