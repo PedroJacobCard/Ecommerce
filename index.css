@@ -510,3 +510,10 @@ p {
 footer {
     background-color: var(--primary-color);
 }
+
+footer img {
+    height: 30%;
+    width: 30%;
+    margin: -5rem 0 -6.5rem;
+    padding: 0;
+}
