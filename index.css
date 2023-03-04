@@ -494,7 +494,7 @@ p {
 
 #newsletter button {
     font-size: 16px;
-    text-align: justify;
+    text-align: start;
     background-color: var(--primary-color);
     color: var(--secondary-color);
     border-radius: 6px;
