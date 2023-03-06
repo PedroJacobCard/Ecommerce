@@ -53,8 +53,8 @@ body {
 /* here starts header*/
 
 .logo {
-    height: 60%;
-    width: 60%;
+    height: 100px;
+    width: 100px;
     margin: 0 0;
     padding: 0;
 }
