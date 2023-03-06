@@ -544,3 +544,7 @@ footer a {
     color: var(--secondary-color);
     margin-bottom: 10px;
 }
+
+footer i {
+    color: var(--secondary-color);
+}
