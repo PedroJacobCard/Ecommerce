@@ -559,6 +559,8 @@ footer .install .row img {
     border: 1px solid var(--secondary-color);
     border-radius: 6px;
     margin: -5rem 0;
+    width: 40%;
+    height: 20%;
 }
 
 footer .install .img-2 {
