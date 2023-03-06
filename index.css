@@ -563,8 +563,6 @@ footer .install .row img {
 }
 
 footer .install .img-2 {
-    border: 1px solid var(--secondary-color);
-    border-radius: 6px;
     width: 20%;
-    height: 5%;
+    height: 10%;
 }
