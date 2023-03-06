@@ -509,5 +509,5 @@ p {
 }
 
 footer {
-    
+    background-color: var(--primary-color);
 }
