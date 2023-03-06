@@ -558,12 +558,12 @@ footer .follow i {
 footer .install .row img {
     border: 1px solid var(--secondary-color);
     border-radius: 6px;
-    margin: 0 0 -5rem;
+    margin: 0 0 -3rem;
     width: 100px;
     height: 50px;
 }
 
 footer .install .img-2 {
-    width: ;
-    height: ;
+    width: 100px;
+    height: 50px;
 }
