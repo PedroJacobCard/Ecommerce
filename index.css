@@ -561,3 +561,10 @@ footer .install .row img {
     width: 50%;
     height: 5%;
 }
+
+footer .install .img-2 {
+    border: 1px solid var(--secondary-color);
+    border-radius: 6px;
+    width: 50%;
+    height: 5%;
+}
