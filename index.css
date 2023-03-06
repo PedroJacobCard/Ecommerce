@@ -522,6 +522,13 @@ footer .col {
     margin-bottom: 20px;
 }
 
+footer .col-1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
 footer .logo {
     width: 15%;
     height: 95%;
