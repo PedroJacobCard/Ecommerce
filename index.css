@@ -564,7 +564,6 @@ footer .install .row img {
 }
 
 footer .install .img-2 {
-    width: 100px;
-    height: 50px;
-    margin-top: 5rem;
+    width: 200px;
+    height: 100px;
 }
