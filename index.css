@@ -531,7 +531,8 @@ footer span {
 }
 
 footer .col {
-    justify-content: space-between;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
     margin-left: 1rem;
-    padding-bottom: 1rem;
 }
