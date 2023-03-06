@@ -510,6 +510,9 @@ p {
 
 footer {
     background-color: var(--primary-color);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 footer img {
