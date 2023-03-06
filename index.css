@@ -517,6 +517,13 @@ footer {
     padding-left: 1rem;
 }
 
+footer .icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
 footer .col {
     display: flex;
     flex-direction: column;
