@@ -545,6 +545,5 @@ footer span {
 footer .col {
     display: flex;
     align-items: flex-start;
-    flex-direction: column;
     margin-bottom: 20px;
 }
