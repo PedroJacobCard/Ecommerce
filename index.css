@@ -525,7 +525,7 @@ footer .col {
 footer .logo {
     width: 15%;
     height: 95%;
-    margin: 30px -800px 20px;
+    margin: 30px -800px 20px 20px;
 }
 
 footer h5 {
