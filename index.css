@@ -547,4 +547,5 @@ footer a {
 
 footer i {
     color: var(--secondary-color);
+    flex-direction: row;
 }
