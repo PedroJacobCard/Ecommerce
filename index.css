@@ -528,3 +528,18 @@ footer .logo {
     margin-bottom: 30px;
     margin-top: 20px;
 }
+
+footer h5 {
+    padding-bottom: 20px;
+}
+
+footer p {
+    margin: 0 0 8px 0;
+}
+
+footer a {
+    font-size: 13px;
+    text-decoration: none;
+    color: var(--secondary-color);
+    margin-bottom: 10px;
+}
