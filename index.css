@@ -509,41 +509,5 @@ p {
 }
 
 footer {
-    background-color: var(--primary-color);
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-footer .img-1 {
-    height: 40%;
-    width: 15%;
-    margin: 1% 0 -3% -3%;
-    padding: 0;
-}
-
-footer i {
-    flex-direction: row;
-}
-
-footer .img-2 {
-    height: 20%;
-    width: 45%;
-    margin: 1rem 0 0;
-    padding: 0;
-    flex-direction: row;
-}
-
-footer h5 {
-    margin: 1rem 0;
-}
-
-footer span {
-    font-weight: bold;
-}
-
-footer .col {
-    display: flex;
-    align-items: flex-start;
-    margin-bottom: 20px;
+    
 }
