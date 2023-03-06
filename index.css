@@ -560,7 +560,7 @@ footer .install .row img {
     border-radius: 6px;
     width: 50%;
     height: 5%;
-    margin-bottom: -9rem;
+    margin: -9rem -1rem;
 }
 
 footer .install .img-2 {
