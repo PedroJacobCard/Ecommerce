@@ -553,6 +553,7 @@ footer .follow i {
     padding-right: 4px;
     cursor: pointer;
     color: var(--secondary-color);
+    width: 30%;
 }
 
 footer .install .row img {
