@@ -521,3 +521,8 @@ footer .col {
     align-items: flex-start;
     margin-bottom: 20px;
 }
+
+footer .logo {
+    width: 15%;
+    height: 15%;
+}
