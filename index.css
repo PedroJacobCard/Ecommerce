@@ -554,3 +554,8 @@ footer .follow i {
     cursor: pointer;
     color: var(--secondary-color);
 }
+
+footer .install .row img {
+    border: 1px solid var(--secondary-color);
+    border-radius: 6px;
+}
