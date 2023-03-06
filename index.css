@@ -527,6 +527,7 @@ footer .img-2 {
     width: 40%;
     margin: 1rem 1rem 0;
     padding: 0;
+    flex-direction: row;
 }
 
 footer h5 {
