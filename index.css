@@ -545,7 +545,12 @@ footer a {
     margin-bottom: 10px;
 }
 
-footer i {
+footer .follow {
+    margin-top: 20px;
+}
+
+footer .follow i {
+    padding-right: 4px;
+    cursor: pointer;
     color: var(--secondary-color);
-    flex-direction: initial;
 }
