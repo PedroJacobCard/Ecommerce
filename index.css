@@ -553,5 +553,6 @@ footer .follow i {
     padding-right: 4px;
     cursor: pointer;
     color: var(--secondary-color);
-    display: inline;
+    display: flex;
+    flex-direction: row;
 }
