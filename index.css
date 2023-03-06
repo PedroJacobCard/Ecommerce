@@ -511,7 +511,7 @@ p {
 footer {
     background-color: var(--primary-color);
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: space-between;
 }
 
