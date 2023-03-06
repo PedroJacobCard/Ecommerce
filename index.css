@@ -512,6 +512,7 @@ footer {
     background-color: var(--primary-color);
     display: flex;
     flex-wrap: nowrap;
+    flex-direction: row;
     justify-content: space-between;
 }
 
