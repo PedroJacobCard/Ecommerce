@@ -539,6 +539,7 @@ footer p {
 
 footer a {
     font-size: 13px;
+    font-family: var(--secondary-font);
     text-decoration: none;
     color: var(--secondary-color);
     margin-bottom: 10px;
