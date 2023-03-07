@@ -711,26 +711,7 @@ footer .copyright {
         font-size: 16px;
     }
 
-    #newsletter {
-        justify-content: center;
-    }
-
-    #newsletter .newstext{
-        margin: 1rem auto;
-        justify-content: center;
-        align-items: center;
-    }
-
-    #newsletter .newstext h2{
-        font-size: 20px;
-    }
-
-    #newsletter .newstext h5{
-        font-size: 16px;
-        margin-right: 40%;
-    }
-
     #newsletter .form {
-        justify-content: flex-end;
+        width: 70%;
     }
 }
