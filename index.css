@@ -588,4 +588,7 @@ footer .install .img-2 {
 footer .copyright {
     display: flex;
     flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
 }
