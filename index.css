@@ -683,8 +683,15 @@ footer .copyright {
     }
 
     #banner3 {
-        font-size: 24px;
         margin: 1% 0;
         padding: 55px;
+    }
+
+    #banner3 h2 {
+        fontsize: 24px;
+    }
+
+    #banner3 h5 {
+        font-size: 16px;
     }
 }
