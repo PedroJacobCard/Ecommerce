@@ -731,6 +731,18 @@ footer .copyright {
     }
 }
 
+@media (max-width: 573px) {
+    #sm-banner .banner-box {
+        padding: 55px;
+        min-width: 70%;
+    }
+
+    #sm-banner .banner-box-2 {
+        padding: 55px;
+        min-width: 70%;
+    } 
+}
+
 @media (max-width: 477px) {
     #sm-banner .banner-box {
         padding: 55px;
