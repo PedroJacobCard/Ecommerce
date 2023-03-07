@@ -590,4 +590,6 @@ footer .copyright {
     margin-left: 13rem;
     margin-bottom: 1rem;
     z-index: 1;
+    flex-direction: column-reverse;
+    align-items: center;
 }
