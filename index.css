@@ -744,6 +744,10 @@ footer .copyright {
 }
 
 @media (max-width: 477px) {
+    #feature .fe-box {
+        width: 30%;
+    }
+
     #sm-banner .banner-box {
         padding: 55px;
         min-width: 88%;
