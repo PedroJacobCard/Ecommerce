@@ -711,6 +711,10 @@ footer .copyright {
         font-size: 16px;
     }
 
+    #newsletter {
+        justify-content: center;
+    }
+
     #newsletter .newstext h2{
         font-size: 20px;
     }
