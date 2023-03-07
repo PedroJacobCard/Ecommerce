@@ -606,5 +606,6 @@ footer .copyright {
         height: 100vh;
         width: 300px;
         background-color: var(--primary-color);
+        box-shadow: 0 40px 60px rgba(0, 0, 0, 0.09);
     }
 }
