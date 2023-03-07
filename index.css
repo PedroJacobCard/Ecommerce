@@ -589,7 +589,7 @@ footer .copyright {
     position: relative;
     margin-left: 13rem;
     margin-bottom: 1rem;
-    z-index: 1;
+    z-index: 5;
     flex-direction: column-reverse;
     align-items: center;
 }
