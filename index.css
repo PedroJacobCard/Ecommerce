@@ -710,4 +710,12 @@ footer .copyright {
     #banner3 .banner-box-3 h5 {
         font-size: 16px;
     }
+
+    #newsletter .newstext h2{
+        font-size: 20px;
+    }
+
+    #newsletter .newstext h5{
+        font-size: 16px;
+    }
 }
