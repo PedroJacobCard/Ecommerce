@@ -592,4 +592,5 @@ footer .copyright {
     z-index: 5;
     flex-direction: column-reverse;
     align-items: center;
+    float: bottom;
 }
