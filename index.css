@@ -604,6 +604,10 @@ footer .copyright {
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
+    .section-pd1 {
+        padding: 40px 40px;
+    }
+
     #navbar {
         display:flex;
         flex-direction: column;
@@ -664,5 +668,9 @@ footer .copyright {
 
     #feature {
         justify-content: center;
+    }
+
+    #feature .fe-box {
+        margin: 15px 15px;
     }
 }
