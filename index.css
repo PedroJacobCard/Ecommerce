@@ -592,5 +592,5 @@ footer .copyright {
     flex-direction: column-reverse;
     margin: 0 auto;
     z-index: 1;
-    position: absolute;
+    position: relative;
 }
