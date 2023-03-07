@@ -565,6 +565,10 @@ footer .follow i {
     color: var(--secondary-color);
 }
 
+footer .follow i:hover {
+    color: black;
+}
+
 footer .install .row img {
     border: 1px solid var(--secondary-color);
     border-radius: 6px;
