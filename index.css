@@ -719,4 +719,8 @@ footer .copyright {
         font-size: 16px;
         margin-right: 40%;
     }
+
+    #newsletter .form {
+        justify-content: flex-end;
+    }
 }
