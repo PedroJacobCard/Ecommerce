@@ -715,3 +715,9 @@ footer .copyright {
         width: 70%;
     }
 }
+
+@media (max-width: 477px) {
+    #sm-banner .banner-box {
+        padding: 55px;
+    }
+}
