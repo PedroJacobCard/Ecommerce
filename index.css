@@ -109,6 +109,15 @@ body {
     left: 20px;
 }
 
+#mobile {
+    display: none;
+    align-items: center;
+}
+
+#close {
+    display: none;
+}
+
 /*here starts hero section*/
 
 #hero {
