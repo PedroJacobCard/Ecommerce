@@ -565,7 +565,8 @@ footer .follow i {
     color: var(--secondary-color);
 }
 
-footer .follow i:hover {
+footer .follow i:hover 
+footer a:hover {
     color: black;
     transition: 0.5s ease;
 }
@@ -585,5 +586,5 @@ footer .install .img-2 {
 }
 
 footer .copyright {
-    
+
 }
