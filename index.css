@@ -749,6 +749,11 @@ footer .copyright {
         padding: 5%;
     }
 
+    #feature .litt {
+        width: 40%;
+        padding: 8%;
+    }
+
     #sm-banner .banner-box {
         padding: 55px;
         min-width: 88%;
