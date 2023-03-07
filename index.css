@@ -586,5 +586,6 @@ footer .install .img-2 {
 }
 
 footer .copyright {
-    margin-left: 23rem;
+    display: flex;
+    flex-direction: row;
 }
