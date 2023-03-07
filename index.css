@@ -719,11 +719,11 @@ footer .copyright {
 @media (max-width: 477px) {
     #sm-banner .banner-box {
         padding: 55px;
-        min-width: 40%;
+        min-width: 30%;
     }
 
     #sm-banner .banner-box-2 {
         padding: 55px;
-        min-width: 400px;
+        min-width: 30%;
     }
 }
