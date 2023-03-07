@@ -610,7 +610,7 @@ footer .copyright {
         padding: 80px 0 0 10px;
     }
 
-    #navbar .active {
+    #navbar.active {
         right: 0px;
     }
 
