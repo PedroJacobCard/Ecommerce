@@ -591,3 +591,19 @@ footer .copyright {
     display: flex;
     justify-content: center;
 }
+
+/* here starts the responsivety*/
+
+@media (max-width: 799px) {
+    #navbar {
+        display:flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        position: fixed;
+        top: 0;
+        right: 0px;
+        height: 100vh;
+        width: 300px;
+    }
+}
