@@ -610,6 +610,11 @@ footer .copyright {
         padding: 80px 0 0 10px;
     }
 
+    #navbar:hover {
+        color: black;
+        transition: 0.5s ease;
+    }
+
     #navbar.active {
         right: 0px;
     }
