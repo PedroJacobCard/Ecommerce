@@ -567,6 +567,7 @@ footer .follow i {
 
 footer .follow i:hover {
     color: black;
+    transition: 1s ease;
 }
 
 footer .install .row img {
