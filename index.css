@@ -673,4 +673,8 @@ footer .copyright {
     #feature .fe-box {
         margin: 15px 15px;
     }
+
+    #banner {
+       height: 20vh;
+    }
 }
