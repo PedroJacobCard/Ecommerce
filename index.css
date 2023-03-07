@@ -744,6 +744,10 @@ footer .copyright {
 }
 
 @media (max-width: 477px) {
+    #hero {
+        justify-content: end;
+    }
+
     #feature .fe-box {
         width: 40%;
         padding: 5%;
