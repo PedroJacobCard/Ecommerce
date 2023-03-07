@@ -592,4 +592,5 @@ footer .copyright {
     flex-wrap: wrap;
     margin-left: 13rem;
     margin-bottom: 1rem;
+    z-index: 1;
 }
