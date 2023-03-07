@@ -687,11 +687,11 @@ footer .copyright {
         padding: 55px;
     }
 
-    #banner3 .banner-box, .banner-box-2, .banner-box-3 h2 {
+    #banner3 .banner-box .banner-box-2 .banner-box-3 h2 {
         fontsize: 18px;
     }
 
-    #banner3 .banner-box, .banner-box-2, .banner-box-3 h5 {
-        font-size: 6px;
+    #banner3 .banner-box .banner-box-2 .banner-box-3 h5 {
+        font-size: 16px;
     }
 }
