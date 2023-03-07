@@ -649,6 +649,7 @@ footer .copyright {
         left: 30px;
         color: var(--secondary-color);
         font-size: 20px;
+        display: initial;
     }
 
     #lg-bag {
