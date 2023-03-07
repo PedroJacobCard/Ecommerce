@@ -783,6 +783,30 @@ footer .copyright {
         min-width: 30%;
     }
 
+    #banner3 .banner-box h2 {
+        font-size: 18px;
+    }
+
+    #banner3 .banner-box h5 {
+        font-size: 14px;
+    }
+
+    #banner3 .banner-box-2 h2 {
+        font-size: 18px;
+    }
+
+    #banner3 .banner-box-2 h5 {
+        font-size: 14px;
+    }
+
+    #banner3 .banner-box-3 h2 {
+        font-size: 18px;
+    }
+
+    #banner3 .banner-box-3 h5 {
+        font-size: 14px;
+    }
+
     #newsletter .form {
         width: 90%;
     }
