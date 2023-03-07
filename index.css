@@ -586,10 +586,5 @@ footer .install .img-2 {
 }
 
 footer .copyright {
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: column-reverse;
-    margin: 0 auto;
-    z-index: 1;
-    position: relative;
+    
 }
