@@ -590,4 +590,5 @@ footer .copyright {
     flex-direction: column-reverse;
     align-items: flex-end;
     flex-wrap: wrap;
+    margin-left: 3rem;
 }
