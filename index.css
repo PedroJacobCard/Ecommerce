@@ -755,21 +755,21 @@ footer .copyright {
     }
 
     #banner3 {
-        margin: 0 0.5%;
+        margin: 0 0.6%;
     }
     
     #banner3 .banner-box {
-        padding: 1%;
+        padding: 2%;
         min-width: 30%;
     }
     
     #banner3 .banner-box-2 {
-        padding: 1%;
+        padding: 2%;
         min-width: 30%; 
     }
     
     #banner3 .banner-box-3 {
-        padding: 1%;
+        padding: 2%;
         min-width: 30%;
     }
 }
