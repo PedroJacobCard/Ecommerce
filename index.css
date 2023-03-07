@@ -607,5 +607,6 @@ footer .copyright {
         width: 300px;
         background-color: var(--primary-color);
         box-shadow: 0 40px 60px rgba(0, 0, 0, 0.09);
+        padding: 80px 0 0 10px;
     }
 }
