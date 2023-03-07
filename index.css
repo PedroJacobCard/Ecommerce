@@ -661,4 +661,8 @@ footer .copyright {
         padding: 0 80px;
         background-position: top 30% right 30%;
     }
+
+    #feature {
+        justify-content: center;
+    }
 }
