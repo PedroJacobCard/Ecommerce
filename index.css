@@ -726,16 +726,20 @@ footer .copyright {
         padding: 55px;
         min-width: 30%;
     }
+
+    #banner3 {
+        padding: 0%;
+    }
     
     #banner3 .banner-box {
-        min-width: 50%;
+        min-width: 30%;
     }
     
     #banner3 .banner-box-2 {
-        min-width: 50%; 
+        min-width: 30%; 
     }
     
     #banner3 .banner-box-3 {
-        min-width: 50%;
+        min-width: 30%;
     }
 }
