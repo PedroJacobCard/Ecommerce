@@ -717,6 +717,8 @@ footer .copyright {
 
     #newsletter .newstext{
         margin: 1rem auto;
+        justify-content: center;
+        align-items: center;
     }
 
     #newsletter .newstext h2{
