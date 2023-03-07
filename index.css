@@ -565,8 +565,8 @@ footer .follow i {
     color: var(--secondary-color);
 }
 
-footer .follow i:hover 
-footer a {
+footer .follow i:hover, 
+footer a:hover {
     color: black;
     transition: 0.5s ease;
 }
