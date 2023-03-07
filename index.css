@@ -745,7 +745,7 @@ footer .copyright {
 
 @media (max-width: 477px) {
     #hero {
-        
+        height: 100%;
     }
 
     #feature .fe-box {
