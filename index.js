@@ -1,4 +1,4 @@
-const bar = document.getElementById("bar");
+const bar = document.getElementById("mobile");
 const nav = document.getElementById("navbar");
 
 if (bar) {
