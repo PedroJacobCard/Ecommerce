@@ -566,7 +566,7 @@ footer .follow i {
 }
 
 footer .follow i:hover 
-footer a:hover {
+footer a {
     color: black;
     transition: 0.5s ease;
 }
