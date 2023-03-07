@@ -674,6 +674,16 @@ footer .copyright {
         margin: 15px 15px;
     }
 
+    #sm-banner .banner-box {
+        padding: 55px;
+        min-width: 30%;
+    }
+
+    #sm-banner .banner-box-2 {
+        padding: 55px;
+        min-width: 30%;
+    }
+
     #banner h5 {
        font-size: 16px;
     }
