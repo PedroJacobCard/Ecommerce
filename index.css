@@ -717,11 +717,14 @@ footer .copyright {
 
     #newsletter .newstext h2{
         font-size: 20px;
+        align-items: center;
     }
 
     #newsletter .newstext h5{
         font-size: 16px;
         margin-right: 40%;
+        align-items: center;
+        margin-bottom: 5%;
     }
 
     #newsletter .form {
