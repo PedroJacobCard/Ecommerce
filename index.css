@@ -859,6 +859,10 @@ footer .copyright {
 
 /* here starts the shop page */
 
+#hero a {
+    text-decoration: none;
+}
+
 svg#freepik_stories-recipe-book:not(.animated) .animable {
     width: 100%;
     opacity: 0;
