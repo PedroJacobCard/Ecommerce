@@ -768,6 +768,10 @@ footer .copyright {
         font-size: 16px;
     }
 
+    button {
+        padding: 4 40px;
+    }
+
     #feature .fe-box {
         width: 40%;
         padding: 5%;
