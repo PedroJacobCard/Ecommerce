@@ -610,7 +610,7 @@ footer .copyright {
     background-color: var(--secondary-color);
     height: 60vh;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     padding: 10px auto;
