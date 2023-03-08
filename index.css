@@ -964,4 +964,11 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     #newsletter .form {
         width: 90%;
     }
+
+    /* shop page */
+
+    #pagination {
+        text-align: center;
+        margin-bottom: 10%;
+    }
 }
