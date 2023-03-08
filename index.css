@@ -784,6 +784,10 @@ footer .copyright {
         padding: 7% 3%;
     }
 
+    #product1 .pro {
+        width: 100%;
+    }
+
     #banner h1 {
         font-size: 30px;
         padding: 0 10px;
