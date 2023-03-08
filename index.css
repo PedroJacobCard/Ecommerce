@@ -784,6 +784,10 @@ footer .copyright {
         padding: 7% 3%;
     }
 
+    #banner h1 {
+        font-size: 30px;
+    }
+
     #banner button {
         font-size: 16px;
         padding: 4px 40px;
