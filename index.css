@@ -756,9 +756,16 @@ footer .copyright {
         background-position: 55%;
         padding-right: 5%;
     }
+    h4 {
+        font-size: 16px;
+    }
 
     h1, h2 {
         font-size: 30px;
+    }
+
+    p {
+        font-size: 16px;
     }
 
     #feature .fe-box {
