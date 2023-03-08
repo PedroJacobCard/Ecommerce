@@ -616,7 +616,8 @@ footer .copyright {
     width: 60%;
     z-index: 1;
     position: relative;
-    justify-content: center;
+    display: flex;
+    justify-content: end;
     align-items: center;
     margin: 0 auto;
 }
