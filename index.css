@@ -786,6 +786,7 @@ footer .copyright {
 
     #banner h1 {
         font-size: 30px;
+        padding: 0 10px;
     }
 
     #banner button {
