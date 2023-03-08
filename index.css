@@ -610,13 +610,12 @@ footer .copyright {
     background-color: var(--secondary-color);
 }
 
-#hero a {
+#page-header a {
     text-decoration: none;
     color: black;
 }
 
 svg#freepik_stories-recipe-book:not(.animated) .animable {
-    width: 70%;
     opacity: 0;
 }
 
