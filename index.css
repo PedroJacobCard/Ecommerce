@@ -611,6 +611,11 @@ footer .copyright {
     height: 40vh;
 }
 
+#page-header svg {
+    height: 10%;
+    width: 10%;
+}
+
 #page-header a {
     text-decoration: none;
     color: black;
