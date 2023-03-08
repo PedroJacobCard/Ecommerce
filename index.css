@@ -608,7 +608,7 @@ footer .copyright {
 #page-header {
     background-image: none;
     background-color: var(--secondary-color);
-    height: 40vh;
+    height: 60vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
