@@ -714,6 +714,10 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
 /* here starts single product */
 
+#prodetails {
+    margin: 1rem;
+}
+
 #prodetails .single-pro-image {
     width: 40%;
     margin-right: 50px;
