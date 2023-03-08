@@ -612,9 +612,10 @@ footer .copyright {
 }
 
 #page-header svg {
-    height: 40%;
-    width: 40%;
+    height: 60%;
+    width: 60%;
     z-index: 1;
+    position: relative;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
