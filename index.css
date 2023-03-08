@@ -861,6 +861,7 @@ footer .copyright {
 
 #hero a {
     text-decoration: none;
+    color: black;
 }
 
 svg#freepik_stories-recipe-book:not(.animated) .animable {
