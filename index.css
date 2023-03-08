@@ -609,6 +609,10 @@ footer .copyright {
     background-image: none;
     background-color: var(--secondary-color);
     height: 40vh;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 2rem auto;
 }
 
 #page-header svg {
