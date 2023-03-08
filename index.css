@@ -757,6 +757,10 @@ footer .copyright {
         padding-right: 5%;
     }
 
+    h1 {
+        font-size: 36px;
+    }
+
     #feature .fe-box {
         width: 40%;
         padding: 5%;
