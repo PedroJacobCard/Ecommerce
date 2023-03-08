@@ -709,6 +709,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     border-radius: 4px;
     color: var(--secondary-color);
     font-weight: 600;
+    font-size: 20px;
 }
 
 /* here starts the responsivety*/
