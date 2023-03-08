@@ -618,7 +618,7 @@ footer .copyright {
 
 #page-header p {
     color: #e84624;
-    margin-bottom: 5px;
+    padding-bottom: 2rem;
 }
 
 #page-header svg {
