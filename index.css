@@ -752,9 +752,9 @@ footer .copyright {
     #hero {
         height: 83vh;
         text-align: end;
-        justify-content: end;
         padding: o 20px;
         background-position: 55%;
+        margin-left: 5%;
     }
 
     #feature .fe-box {
