@@ -794,7 +794,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     cursor: pointer;
    }
    
-   #prodetails .single-pro-details button:after {
+   #prodetails .single-pro-details butto:after {
     content: " ";
     width: 0%;
     height: 100%;
@@ -804,13 +804,13 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     right: 0;
    }
    
-   #prodetails .single-pro-details button:hover::after {
+   #prodetails .single-pro-details butto:hover::after {
     right: auto;
     left: 0;
     width: 100%;
    }
    
-   #prodetails .single-pro-details button span {
+   #prodetails .single-pro-details butto span {
     text-align: center;
     text-decoration: none;
     width: 100%;
@@ -823,7 +823,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     transition: all 0.3s ease-in-out;
    }
    
-   #prodetails .single-pro-details button:hover span {
+   #prodetails .single-pro-details butto:hover span {
     color: var(--secondary-color);
     animation: scaleUp 0.3s ease-in-out;
    }
