@@ -795,6 +795,8 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     background: #e8a826;
     box-shadow:  5px 5px 10px #d5c29f,
                  -5px -5px 10px #ffffff;
+    overflow: hidden;
+    border: none;
 }
 
 /* here starts the responsivety*/
