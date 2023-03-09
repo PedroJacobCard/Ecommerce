@@ -781,6 +781,16 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
                  -5px -5px 10px #ffffff;
 }
 
+#prodetails .single-pro-details input:focus {
+    outline: none;
+}
+
+#prodetails .single-pro-details span {
+    line-height: 20px;
+    font-size: 16px;
+    color: var(--secondary-color);
+}
+
 #prodetails .single-pro-details button {
     position: relative;
     display: flex;
