@@ -757,7 +757,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     margin-bottom: 10px;
     color: var(--primary-color);
     border-radius: 6px;
-    background: #e0e0e0;
+    background: var(--secondary-color);
     box-shadow:  20px 20px 60px #bebebe,
              -20px -20px 60px #ffffff;
 }
@@ -770,7 +770,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     margin-right: 10px;
     color: var(--primary-color);
     border-radius: 6px;
-    background: #e0e0e0;
+    background: var(--secondary-color);
     box-shadow:  20px 20px 60px #bebebe,
              -20px -20px 60px #ffffff;
 }
@@ -781,7 +781,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     margin-right: 10px;
     color: var(--primary-color);
     border-radius: 6px;
-    background: #e0e0e0;
+    background: var(--secondary-color);
     box-shadow:  20px 20px 60px #bebebe,
              -20px -20px 60px #ffffff;
 }
