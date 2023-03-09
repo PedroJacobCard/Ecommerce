@@ -775,9 +775,9 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     font-size: 16px;
     color: var(--primary-color);
     border-radius: 6px;
-    background: var(--secondary-color);
-    box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff; 
+    background: #e8a826;
+    box-shadow:  5px 5px 10px #695938,
+                 -5px -5px 10px #ffffff;
 }
 
 #prodetails .single-pro-details button {
@@ -787,9 +787,9 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     cursor: pointer;
     color: var(--primary-color);
     border-radius: 6px;
-    background: var(--secondary-color);
-    box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff;
+    background: #e8a826;
+    box-shadow:  5px 5px 10px #695938,
+                 -5px -5px 10px #ffffff;
 }
 
 /* here starts the responsivety*/
