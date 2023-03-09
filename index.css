@@ -824,7 +824,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
    }
    
    #prodetails .single-pro-details button:hover span {
-    color: #183153;
+    color: var(--secondary-color);
     animation: scaleUp 0.3s ease-in-out;
    }
    
