@@ -822,7 +822,6 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     font-size: 20px;
     font-family: var(--secondary-font);
     font-weight: 600;
-    letter-spacing: 0.3em;
     z-index: 20;
     transition: all 0.3s ease-in-out;
    }
