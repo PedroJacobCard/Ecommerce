@@ -761,8 +761,8 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     border-radius: 6px;
     border-radius: 6px;
     background: #e8a826;
-    box-shadow:  5px 5px 10px #c58f20,
-                 -5px -5px 10px #ffc12c;
+    box-shadow:  5px 5px 10px #000000,
+                 -5px -5px 10px #ffffff;
 }
 
 #prodetails .single-pro-details input {
