@@ -775,6 +775,19 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
              -20px -20px 60px #ffffff;
 }
 
+#prodetails .single-pro-details button {
+    width: 50px;
+    height: 47px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    color: var(--primary-color);
+    border-radius: 6px;
+    background: #e0e0e0;
+    box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
