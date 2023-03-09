@@ -755,6 +755,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     display: block;
     padding: 5px 10px;
     margin-bottom: 10px;
+    cursor: pointer;
     font-size: 16px;
     color: var(--primary-color);
     border-radius: 6px;
@@ -769,6 +770,8 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     padding-left: 10px;
     font-size: 16px;
     margin-right: 10px;
+    cursor: pointer;
+    font-size: 16px;
     color: var(--primary-color);
     border-radius: 6px;
     background: var(--secondary-color);
@@ -780,6 +783,8 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     padding: 4px 10px;
     font-size: 16px;
     margin-right: 10px;
+    cursor: pointer;
+    font-size: 16px;
     color: var(--primary-color);
     border-radius: 6px;
     background: var(--secondary-color);
