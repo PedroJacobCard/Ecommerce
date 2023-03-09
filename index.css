@@ -779,7 +779,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
              -20px -20px 60px #ffffff; 
 }
 
-#prodetails .single-pro-details button {
+#prodetails .single-pro-details  {
     position: relative;
     display: flex;
     border-radius: 6px;
@@ -842,7 +842,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     }
    }
 
-#prodetails .single-pro-detail {
+#prodetails .single-pro-details button{
     padding: 4px 10px;
     font-size: 20px;
     margin-right: 10px;
