@@ -799,6 +799,22 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     border: none;
 }
 
+#prodetails .single-pro-details button:after {
+    content: " ";
+    width: 0%;
+    height: 100%;
+    background: #FFD401;
+    position: absolute;
+    transition: all 0.4s ease-in-out;
+    right: 0;
+   }
+   
+#prodetails .single-pro-details button:hover::after {
+    right: auto;
+    left: 0;
+    width: 100%;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
