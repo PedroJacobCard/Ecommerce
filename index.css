@@ -755,9 +755,11 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     display: block;
     padding: 5px 10px;
     margin-bottom: 10px;
-    background-color: #bebebe;
     color: var(--primary-color);
-    border-radius: 4px;
+    border-radius: 6px;
+    background: #e0e0e0;
+    box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
 }
 
 #prodetails .single-pro-details input {
@@ -766,6 +768,11 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     padding-left: 10px;
     font-size: 16px;
     margin-right: 10px;
+    color: var(--primary-color);
+    border-radius: 6px;
+    background: #e0e0e0;
+    box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
 }
 
 /* here starts the responsivety*/
