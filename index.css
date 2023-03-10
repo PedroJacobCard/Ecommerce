@@ -876,6 +876,12 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     padding: 150px 150px 0 150px;
 }
 
+#blog .log-box {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
 #blog .img {
     width: 40%;
     height: 40%;
