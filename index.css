@@ -958,9 +958,14 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     color:#e84624;
 }
 
+#about-head {
+    display: flex;
+    align-items: center;
+}
+
 #about-head img {
-    width: 20%;
-    height: 30vh;
+    width: 50%;
+    height: auto;
 }
 
 /* here starts the responsivety*/
