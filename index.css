@@ -1283,6 +1283,10 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
     /* blog page */
 
+    #blog {
+        padding: 1rem 0;
+    }
+
     #page-header-blog {
         padding: 0 2rem;
     }
