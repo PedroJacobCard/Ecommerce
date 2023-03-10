@@ -998,6 +998,10 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         padding: 55px;
         min-width: 88%;
     }
+/*single product section */
+    #page-header {
+        height: 60vh;
+    }
 
     #prodetails .single-pro-image {
         width: 50%;
