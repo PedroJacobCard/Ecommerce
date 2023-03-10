@@ -862,6 +862,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
 #page-header-blog {
     background-image: url("images/a-garota-esta-lendo-um-livro-em-um-cafe.jpg");
+    background-position: top 40% right 0;
     height: 50vh;
     display: flex;
     flex-direction: column;
