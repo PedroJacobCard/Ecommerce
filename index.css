@@ -1003,6 +1003,12 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         height: 60vh;
     }
 
+    h1 {
+        font-family: var(--primary-font);
+        color: var(--primary-color);
+        font-size: 36px;
+    }
+
     #prodetails .single-pro-image {
         width: 50%;
         margin-right: 50px;
