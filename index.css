@@ -941,7 +941,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     .section-pd1 {
         padding: 40px 40px;
     }
-
+    
     #navbar {
         display:flex;
         flex-direction: column;
@@ -956,12 +956,12 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         box-shadow: 0 40px 60px rgba(0, 0, 0, 0.09);
         padding: 80px 0 0 10px;
     }
-
+    
     #navbar:hover {
         color: black;
         transition: 0.5s ease;
     }
-
+    
     #navbar.active {
         right: 0px;
     }
@@ -969,18 +969,18 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     #navbar li {
         margin-bottom: 25px;
     }
-
+    
     #mobile {
         display: flex;
         align-items: center;
     }
-
+    
     #mobile i {
         color: var(--secondary-color);
         font-size: 20px;
         padding-left: 28px;
     }
-
+    
     #close {
         position: absolute;
         top: 30px;
@@ -989,22 +989,22 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         font-size: 20px;
         display: initial;
     }
-
+    
     #lg-bag {
         display: none;
     }
-
+    
     #hero {
         height: 80vh;
         padding: 0 80px;
         background-position: top 30% right 30%;
         text-align: end;
     }
-
+    
     #feature {
         justify-content: center;
     }
-
+    
     #feature .fe-box {
         margin: 15px 15px;
     }
@@ -1012,56 +1012,62 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     #sm-banner {
         margin: 0;
     }
-
+    
     #sm-banner .banner-box {
         padding: 55px;
         width: 10%;
     }
-
+    
     #sm-banner .banner-box-2 {
         padding: 55px;
         width: 10%;
     }
-
+    
     #banner h5 {
-       font-size: 16px;
+        font-size: 16px;
     }
-
+    
     #banner h1 {
         font-size: 36px;
     }
-
+    
     #banner3 {
         margin: 1% 0;
         padding: 0 5%;
     }
-
+    
     #banner3 .banner-box h2 {
         font-size: 20px;
     }
-
+    
     #banner3 .banner-box h5 {
         font-size: 16px;
     }
-
+    
     #banner3 .banner-box-2 h2 {
         font-size: 20px;
     }
-
+    
     #banner3 .banner-box-2 h5 {
         font-size: 16px;
     }
-
+    
     #banner3 .banner-box-3 h2 {
         font-size: 20px;
     }
-
+    
     #banner3 .banner-box-3 h5 {
         font-size: 16px;
     }
-
+    
     #newsletter .form {
         width: 70%;
+    }
+    
+    /* blog */
+    
+    #blog .blog-box h1 {
+        font-size: 50px;
     }
 }
 
@@ -1070,22 +1076,22 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         padding: 55px;
         min-width: 88%;
     }
-
+    
     #sm-banner .banner-box-2 {
         padding: 55px;
         min-width: 88%;
     }
-/*single product section */
+    /*single product section */
     #page-header {
         height: 60vh;
     }
-
+    
     h1 {
         font-family: var(--primary-font);
         color: var(--primary-color);
         font-size: 36px;
     }
-
+    
     #prodetails .single-pro-image {
         width: 50%;
         margin-right: 50px;
@@ -1235,9 +1241,4 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         width: 100%;
     }
 
-    /* blog */
-
-    #blog .blog-box h1 {
-        font-size: 50px;
-    }
 }
