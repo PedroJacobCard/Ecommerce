@@ -1234,4 +1234,10 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     #prodetails .single-pro-details {
         width: 100%;
     }
+
+    /* blog */
+
+    #blog .blog-box h1 {
+        font-size: 50px;
+    }
 }
