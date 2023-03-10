@@ -1122,4 +1122,10 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     #pagination a {
         font-size: 16px;
     }
+
+    /* single product */
+    #prodetails {
+        display: flex;
+        flex-direction: column;
+    }
 }
