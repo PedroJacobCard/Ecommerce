@@ -1119,6 +1119,8 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         padding-top: 30px;
     }
 
+    /* blog page */
+
     #blog .blog-box {
         flex-direction: column;
     }
@@ -1126,6 +1128,14 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     #blog .blog-img {
         width: 100%;
         margin-right: 0px;
+    }
+
+    #blog .blog-box h2 {
+        width: 100%;
+    }
+
+    #blog .blog-box p {
+        width: 100%;
     }
 }
 
