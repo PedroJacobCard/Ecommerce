@@ -1077,6 +1077,10 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     #blog .blog-box h2 {
         font-size: 20px;
     }
+
+    #blog .blog-box p {
+        font-size: 16px;
+    }
     
     #blog .blog-box h1 {
         font-size: 50px;
