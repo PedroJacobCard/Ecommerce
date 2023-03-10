@@ -921,7 +921,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 }
 
 #blog .blog-details a:hover::after {
-    color: var(--primary-color);
+    background-color: var(--primary-color);
 }
 
 /* here starts the responsivety*/
