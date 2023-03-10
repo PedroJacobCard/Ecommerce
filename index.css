@@ -869,7 +869,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     flex-direction: column;
     justify-content: center;
     align-items: end;
-    padding: 5px 10px;
+    padding: 0 5rem;
 }
 
 /* here starts the responsivety*/
