@@ -878,7 +878,6 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
 #blog .blog-box {
     display: flex;
-    flex-direction: row;
     align-items: center;
     width: 100%;
 }
