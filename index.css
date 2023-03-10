@@ -903,6 +903,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     color: var(--secondary-color);
     font-weight: 700;
     position: relative;
+    transition: 0.3s;
 }
 
 #blog .blog-details a::after {
@@ -919,7 +920,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     color: var(--primary-color);
 }
 
-#blog .blog-details a::after:hover {
+#blog .blog-details a:hover::after {
     color: var(--primary-color);
 }
 
