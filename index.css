@@ -969,13 +969,8 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     height: auto;
 }
 
-#about-hea {
+#about-head div {
     margin-left: 1rem;
-}
-
-#about-head .about-Us {
-    display: flex;
-    flex-direction: column;
 }
 
 /* here starts the responsivety*/
