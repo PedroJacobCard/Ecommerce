@@ -981,7 +981,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 #about-app .video {
     width: 70%;
     height: 100%;
-    margin-top: 30px auto 0;
+    margin-top: 30px auto 0 auto;
 }
 
 #about-app .video video {
