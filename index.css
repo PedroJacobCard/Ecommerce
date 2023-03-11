@@ -967,7 +967,10 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 #about-head img {
     width: 50%;
     height: auto;
-    margin-right: 1rem;
+}
+
+#about-head div {
+    margin-left: 1rem;
 }
 
 /* here starts the responsivety*/
