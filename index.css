@@ -960,8 +960,8 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
 #about-head {
     display: flex;
-    flex-direction: row;
     align-items: center;
+    padding: 5rem;
 }
 
 #about-head img {
