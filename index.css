@@ -978,10 +978,16 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     text-align: center;
 }
 
-#about-app video {
+#about-app .video {
     width: 70%;
     height: 100%;
-    margin-top: 30px;
+    margin-top: 30px auto 0;
+}
+
+#about-app .video video {
+    width: 70%;
+    height: 100%;
+    border-radius: 6px;
 }
 
 /* here starts the responsivety*/
