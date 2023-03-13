@@ -990,6 +990,20 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     border-radius: 6px;
 }
 
+/* here starts contact page*/
+
+#page-header-contact {
+    background-image: url("images/contact.jpg");
+    background-size: cover;
+    background-position: top 20% left 0;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 auto;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
