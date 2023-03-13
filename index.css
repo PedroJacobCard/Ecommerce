@@ -1149,6 +1149,10 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         padding: 2rem;
     }
 
+    #about-head img {
+        width: 70%;
+    }
+
     #about-head h2 {
         font-size: 28px;
     }
