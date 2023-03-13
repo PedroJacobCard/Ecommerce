@@ -1070,6 +1070,13 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     height: 100%;
 }
 
+#form-details form {
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
