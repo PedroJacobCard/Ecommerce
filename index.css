@@ -1383,8 +1383,12 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     }
 
     #form-details form {
-        width: 1200px;
+        width: 60%;
         margin: 0;
+    }
+
+    #form-details .people {
+        width: 20%;
     }
 
 }
