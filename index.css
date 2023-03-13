@@ -1072,14 +1072,20 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     height: 100%;
 }
 
+#form-details {
+    display: flex;
+    flex-direction: row;
+    margin: 2.5rem;
+    border: 1px solid var(--primary-color);
+}
+
+
 #form-details form {
     width: 65%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin: 2.5rem;
     padding: 2.5rem;
-    border: 1px solid var(--primary-color);
 }
 
 #form-details form input,
@@ -1161,6 +1167,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     padding-bottom: 25px;
     display: flex;
     align-items: flex-start;
+    padding: 2.5rem;
    }
 
    #form-details .people div img {
