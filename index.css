@@ -1627,4 +1627,8 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         flex-direction: column;
     }
 
+    #contact-details .details {
+        width: 90%;
+    }
+
 }
