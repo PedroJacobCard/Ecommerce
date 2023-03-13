@@ -1262,6 +1262,11 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     display: none; 
 }
 
+#page-header-cart p {
+    color: #e84624;
+    padding-bottom: 2rem;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
