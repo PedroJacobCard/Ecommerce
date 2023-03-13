@@ -1650,4 +1650,8 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         padding: 1rem;
     }
 
+    #form-details form {
+        width: 100%;
+    }
+
 }
