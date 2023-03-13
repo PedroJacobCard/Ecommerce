@@ -1028,12 +1028,14 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     width: 40%;
 }
 
-#contact-details .details span {
+#contact-details .details span,
+#form-details form span {
     color: var(--secondary-color);
     font-size: 16px;
 }
 
-#contact-details .details h2 {
+#contact-details .details h2,
+#form-details form h2 {
     line-height: 35px;
     padding: 20px 0;
 }
