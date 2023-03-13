@@ -1157,6 +1157,17 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     }
    }
 
+   #form-details .people div {
+    padding-bottom: 25px;
+   }
+
+   #form-details .people div img {
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+    margin-right: 15px;
+   }
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
