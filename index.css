@@ -1082,10 +1082,10 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     border: 1px solid var(--primary-color);
 }
 
-#form-details form input {
+#form-details form input,
+#form-details form textarea{
     width: 100%;
     padding: 12px 15px;
-    outline: none;
     margin-bottom: 20px;
     border: 1 px solid var(--secondary-color);
 }
