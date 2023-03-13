@@ -1152,6 +1152,10 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     h2 {
         font-size: 28px;
     }
+
+    p {
+        font-size: 16px;
+    }
 }
 
 @media (max-width: 573px) {
