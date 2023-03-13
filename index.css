@@ -1168,6 +1168,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     padding-bottom: 25px;
     display: flex;
     justify-content: flex-start;
+    flex-wrap: nowrap;
     align-items: center;
     margin-left: 1rem;
    }
