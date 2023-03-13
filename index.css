@@ -1369,6 +1369,12 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         margin: 15px auto 0;
     }
 
+    /* contact page */
+
+    #contact-details {
+        padding: 1rem;
+    }
+
 }
 
 @media (max-width: 573px) {
