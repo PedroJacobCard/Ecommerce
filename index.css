@@ -1597,13 +1597,19 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
         flex-direction: column;
         align-items: center;
     }
-
+    
     #about-head img {
         width: 100%;
     }
-
+    
     #about-head h2 {
         padding: 2rem 0 1rem;
+    }
+    
+    #page-header-about p {
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     #about-app .video {
