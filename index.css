@@ -1162,8 +1162,8 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
    }
 
    #form-details .people div img {
-    width: 65px;
-    height: 65px;
+    width: 10%;
+    height: 10%;
     object-fit: cover;
     margin-right: 15px;
    }
