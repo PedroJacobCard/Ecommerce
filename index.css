@@ -1380,6 +1380,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
     #form-details {
         margin: 1rem;
+        justify-content: none;
     }
 
     #form-details form {
