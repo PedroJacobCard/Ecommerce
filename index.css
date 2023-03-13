@@ -1043,6 +1043,16 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     padding: 10px 0;
 }
 
+#contact-details .details li i {
+    font-size: 14px;
+    padding-right: 22px;
+}
+
+#contact-details .details li p {
+    margin: 0;
+    font-size: 14px;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
