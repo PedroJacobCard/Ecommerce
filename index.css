@@ -1060,6 +1060,16 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     font-size: 18px;
 }
 
+#contact-details .map {
+    width: 55%;
+    height: 400px;
+}
+
+#contact-details .map iframe {
+    width: 100%;
+    height: 100%;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
