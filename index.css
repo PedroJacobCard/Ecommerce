@@ -1607,9 +1607,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     }
     
     #page-header-about p {
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        padding: 0 1rem;
     }
 
     #about-app .video {
