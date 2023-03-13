@@ -1171,6 +1171,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
    #form-details .people div span {
     font-weight: 700;
+    display: block;
    }
 
    #form-details .people div p {
