@@ -1007,6 +1007,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
     align-items: center;
     padding: 0 auto;
     filter: opacity(0.7);
+    z-index: -1;
 }
 
 #page-header-contact h1 {
