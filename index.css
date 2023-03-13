@@ -955,7 +955,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
 #page-header-about p {
     font-size: 36px;
-    color:#ffffff;
+    color:#000;
 }
 
 #about-head {
@@ -1010,7 +1010,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
 #page-header-contact p {
     font-size: 36px;
-    color:#ffffff;
+    color:#000;
 }
 
 /* here starts the responsivety*/
