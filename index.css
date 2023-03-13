@@ -1086,6 +1086,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 #form-details form textarea{
     width: 100%;
     padding: 12px 15px;
+    outline: none;
     margin-bottom: 20px;
     border: 1px solid var(--secondary-color);
 }
