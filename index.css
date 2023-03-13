@@ -1074,7 +1074,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
 #form-details {
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
     margin: 2.5rem;
     border: 1px solid var(--primary-color);
 }
