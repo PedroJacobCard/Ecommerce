@@ -1168,7 +1168,7 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
    #form-details .people div {
     padding-bottom: 25px;
     display: flex;
-    align-items: flex-end;
+    align-items: center;
     justify-content: flex-end;
     padding: 2rem;
    }
