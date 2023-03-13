@@ -1196,6 +1196,28 @@ svg#freepik_stories-recipe-book.animated #freepik--speech-bubble--inject-6 {
 
    /* here starts cart*/
 
+   #page-header-cart {
+    background-image: none;
+    background-color: var(--secondary-color);
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px auto;
+}
+
+#page-header-cart svg{
+    height: 70%;
+    width: 70%;
+    z-index: 1;
+    position: relative;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin: 10px auto;
+}
+
 svg#freepik_stories-shopping-bag:not(.animated) .animable {
     opacity: 0;
 }
