@@ -1282,16 +1282,19 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
 #cart table td:nth-child(1) {
     width: 100px;
     text-align: center;
+    color: var(--secondary-color);
 }
 
 #cart table td:nth-child(2) {
     width: 150px;
     text-align: center;
+    color: var(--secondary-color);
 }
 
 #cart table td:nth-child(3) {
     width: 250px;
     text-align: center;
+    color: var(--secondary-color);
 }
 
 #cart table td:nth-child(4),
@@ -1299,11 +1302,14 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
 #cart table td:nth-child(6) {
     width: 150px;
     text-align: center;
+    color: var(--secondary-color);
 }
 
 #cart table td:nth-child(5) input {
     width: 70px;
     padding: 10px 5px 10px 15px;
+    outline: var(--secondary-color);
+    color: var(--secondary-color);
 }
 
 #cart table thead {
