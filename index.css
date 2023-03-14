@@ -1432,7 +1432,7 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     width: 50%;
     margin-bottom: 30px;
     border: 1px solid var(--primary-color);
-
+    padding: auto;
     align-items: center;
     justify-content: center;
    }
