@@ -1274,6 +1274,10 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     white-space: nowrap;
 }
 
+#cart table img {
+    width: 70%;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
