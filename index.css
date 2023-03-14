@@ -1950,6 +1950,7 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
 
     #cart-add {
         flex-direction: column;
+        justify-content: center;
     }
 
     #coupon {
