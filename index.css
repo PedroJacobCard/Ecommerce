@@ -1312,6 +1312,8 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
 }
 
 #cart table thead td {
+    color: var(--secondary-color);
+    font-family: var(--secondary-font);
     font-weight: 700;
     text-transform: uppercase;
     font-size: 13px;
