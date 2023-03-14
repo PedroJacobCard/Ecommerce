@@ -1434,6 +1434,7 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     border: 1px solid var(--primary-color);
     padding: 30px;
     align-items: center;
+    justify-content: center;
    }
 
 /* here starts the responsivety*/
