@@ -1342,10 +1342,10 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
+    margin: 5rem;
 }
 
 #coupon {
-    margin: 5rem;
     width: 50%;
     margin-bottom: 30px;
 }
