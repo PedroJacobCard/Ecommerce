@@ -1305,6 +1305,12 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     padding: 10px 5px 10px 15px;
 }
 
+#cart table thead {
+    border: 1px solid var(--primary-color);
+    border-left: none;
+    border-right: none;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
