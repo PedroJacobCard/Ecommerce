@@ -1439,6 +1439,19 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     justify-content: space-between;
    }
 
+   #subtotal table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+   }
+
+   #subtotal table td {
+    width: 50%;
+    border: 1px solid var(--secondary-color);
+    padding: 10px;
+    font-size: 13px;
+   }
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
