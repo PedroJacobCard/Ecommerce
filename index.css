@@ -1344,7 +1344,7 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
 
 #cart-add {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-between;
     margin: 5rem;
 }
