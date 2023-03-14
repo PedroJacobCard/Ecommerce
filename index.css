@@ -1952,4 +1952,12 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
         flex-direction: column;
     }
 
+    #coupon {
+        width: 90%;
+    }
+
+    #subtotal {
+        width: 90%;
+    }
+
 }
