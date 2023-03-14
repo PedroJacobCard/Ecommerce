@@ -1279,10 +1279,13 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     width: 70px;
 }
 
+#cart table td i {
+    color: var(--secondary-color);
+}
+
 #cart table td:nth-child(1) {
     width: 100px;
     text-align: center;
-    color: var(--secondary-color);
 }
 
 #cart table td:nth-child(2) {
