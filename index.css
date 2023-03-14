@@ -1946,4 +1946,10 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
         margin: 2rem 0 1rem;
     }
 
+    /* cart page */
+
+    #cart-add {
+        flex-direction: column;
+    }
+
 }
