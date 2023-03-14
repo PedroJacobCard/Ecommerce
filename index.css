@@ -1660,6 +1660,12 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
         height: 30%;
     }
 
+    /* cart page */
+
+    #cart-add {
+        margin: 1rem;
+    }
+
 }
 
 @media (max-width: 573px) {
