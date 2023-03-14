@@ -1272,7 +1272,7 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     border-collapse: collapse;
     table-layout: fixed;
     white-space: nowrap;
-    margin: 5rem;
+    padding: 5rem;
 }
 
 #cart table img {
