@@ -1961,6 +1961,14 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
         justify-content: center;
     }
 
+    #coupon input {
+        width: 100%;
+    }
+
+    #coupon button {
+        margin-top: 0 auto;
+    }
+
     #subtotal {
         width: 90%;
         display: flex;
