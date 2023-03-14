@@ -1268,10 +1268,11 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
 }
 
 #cart table {
-    width: 80%;
+    width: 90%;
     border-collapse: collapse;
     table-layout: fixed;
     white-space: nowrap;
+    margin: 5rem;
 }
 
 #cart table img {
