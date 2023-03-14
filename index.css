@@ -1278,6 +1278,28 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     width: 70px;
 }
 
+#cart table td:nth-child(1) {
+    width: 100px;
+    text-align: center;
+}
+
+#cart table td:nth-child(2) {
+    width: 150px;
+    text-align: center;
+}
+
+#cart table td:nth-child(3) {
+    width: 250px;
+    text-align: center;
+}
+
+#cart table td:nth-child(4),
+#cart table td:nth-child(5),
+#cart table td:nth-child(6) {
+    width: 150px;
+    text-align: center;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
