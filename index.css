@@ -1311,6 +1311,13 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     border-right: none;
 }
 
+#cart table thead td {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding: 18px 0;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
