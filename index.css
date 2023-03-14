@@ -1430,9 +1430,12 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
 
    #subtotal {
     width: 50%;
-    margin: 0 auto;
+    margin-bottom: 30px;
     border: 1px solid var(--primary-color);
-    padding: auto;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
    }
 
 /* here starts the responsivety*/
