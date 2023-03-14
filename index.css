@@ -1325,6 +1325,10 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     padding-top: 15px;
 }
 
+#cart tbody td {
+    font-size: 16px;
+}
+
 /* here starts the responsivety*/
 
 @media (max-width: 799px) {
