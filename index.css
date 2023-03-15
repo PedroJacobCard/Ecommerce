@@ -118,10 +118,11 @@ body {
     display: none;
 }
 
-.searcher {
+#searcher {
     width: 375px;
     height: 520px;
     background-color: var(--secondary-color);
+    position: absolute;
 }
 
 /*here starts hero section*/
