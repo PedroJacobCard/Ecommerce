@@ -73,17 +73,11 @@ body {
     left: 0;
 }
 
-#navbar-parent{
+#navbar{
     display: flex;
     align-items: center;
     justify-content: flex-end;
     margin: auto;
-}
-
-#navbar {
-    display: flex;
-    align-items: center;
-    justify-content: end;
 }
 
 #navbar li {
