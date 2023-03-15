@@ -122,6 +122,7 @@ body {
 #mobile {
     display: none;
     align-items: end;
+    width: 50%;
 }
 
 #close {
