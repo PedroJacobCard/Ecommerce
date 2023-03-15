@@ -120,9 +120,8 @@ body {
 }
 
 #searcher {
-    width: 375px;
-    height: auto;
-    background-color: var(--secondary-color);
+    width: 100%;
+    margin: 1rem auto 1rem;
     align-items: center;
     display: flex;
     justify-content: center;
