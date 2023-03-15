@@ -125,7 +125,7 @@ body {
     background-color: var(--secondary-color);
     position: absolute;
     margin-top: 50rem;
-    margin-right: auto;
+    margin-left: 100rem;
 }
 
 /*here starts hero section*/
