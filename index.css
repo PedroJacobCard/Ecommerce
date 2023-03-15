@@ -136,6 +136,10 @@ body {
     justify-content: end;
 }
 
+#searcher input {
+    padding: 0 20px;
+}
+
 /*here starts hero section*/
 
 #hero {
