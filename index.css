@@ -121,11 +121,8 @@ body {
 
 #searcher {
     width: 375px;
-    height: 520px;
+    height: auto;
     background-color: var(--secondary-color);
-    position: absolute;
-    margin-top: 47%;
-    margin-left: 55%;
 }
 
 /*here starts hero section*/
