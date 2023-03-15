@@ -74,11 +74,11 @@ body {
 }
 
 #navbar{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    margin: 1rem auto;
+        width: 100%;
+        margin: 1rem auto;
+        align-items: center;
+        display: flex;
+        justify-content: end;
 }
 
 #navbar li {
