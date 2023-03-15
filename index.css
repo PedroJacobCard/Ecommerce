@@ -1471,7 +1471,7 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
         justify-content: flex-start;
         position: fixed;
         top: 0;
-        right: -200px;
+        right: -300px;
         height: 100vh;
         width: 300px;
         background-color: var(--primary-color);
