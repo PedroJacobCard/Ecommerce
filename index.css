@@ -73,6 +73,13 @@ body {
     left: 0;
 }
 
+#navbar-parent{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin: 1rem auto;
+}
+
 #navbar {
     display: flex;
     align-items: center;
