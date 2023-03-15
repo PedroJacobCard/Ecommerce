@@ -73,12 +73,17 @@ body {
     left: 0;
 }
 
-#navbar{
-        width: 90%;
-        margin: 1rem auto;
-        align-items: center;
-        display: flex;
-        justify-content: end;
+#navbar-parent{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: auto;
+}
+
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: end;
 }
 
 #navbar li {
