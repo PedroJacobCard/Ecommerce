@@ -75,7 +75,7 @@ body {
 
 #navbar-parent{
     display: flex;
-    align-items: center;
+    align-items: end;
     justify-content: end;
     margin: 1rem auto;
 }
