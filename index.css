@@ -123,6 +123,9 @@ body {
     width: 375px;
     height: auto;
     background-color: var(--secondary-color);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
 }
 
 /*here starts hero section*/
