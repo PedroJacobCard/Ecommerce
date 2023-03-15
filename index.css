@@ -121,8 +121,7 @@ body {
 
 #mobile {
     display: none;
-    align-items: end;
-    width: 50%;
+    align-items: center;
 }
 
 #close {
@@ -1518,7 +1517,8 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     
     #mobile {
         display: flex;
-        align-items: center;
+        align-items: end;
+        width: 50%;
     }
     
     #mobile i {
