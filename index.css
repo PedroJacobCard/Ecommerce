@@ -121,7 +121,7 @@ body {
 
 #mobile {
     display: none;
-    align-items: center;
+    align-items: end;
 }
 
 #close {
