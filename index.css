@@ -77,8 +77,8 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: flex-end;
-    margin: auto;
+    justify-content: center;
+    margin: 1rem auto;
 }
 
 #navbar li {
