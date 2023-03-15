@@ -62,7 +62,7 @@ body {
 #header {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: none;
     flex-wrap: wrap;
     padding: 20px 80px;
     background-color: var(--primary-color);
