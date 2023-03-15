@@ -62,7 +62,8 @@ body {
 #header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: start;
+    flex-wrap: wrap;
     padding: 20px 80px;
     background-color: var(--primary-color);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.09);
@@ -77,7 +78,7 @@ body {
     align-items: center;
     justify-content: center;
     position: relative;
-    flex-wrap: wrap;
+    
     flex-direction: column;
 }
 
