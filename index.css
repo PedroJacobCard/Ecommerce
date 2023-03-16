@@ -180,6 +180,7 @@ body {
     border: 1px solid var(--primary-color);
     display: flex;
     align-items: center;
+    z-index: 1;
 }
 
 #searcher .search-box a img {
