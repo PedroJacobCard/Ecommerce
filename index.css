@@ -170,6 +170,7 @@ body {
     background: rgb( 184, 184, 184, .3);
     top: 26px;
     border-radius: 6px;
+    z-index: -1;
 }
 
 /*here starts hero section*/
