@@ -136,6 +136,7 @@ body {
     display: flex;
     justify-content: end;
     padding: 0 20px;
+    position: relative;
 }
 
 #searcher-bg {
@@ -143,7 +144,7 @@ body {
     top: 100%;
     left: 0;
     right: 0;
-    width: -10%;
+    width: 100%;
     height: 0;
     background-color: var(--primary-color);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.09);
