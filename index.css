@@ -143,7 +143,7 @@ body {
     position: absolute;
     top: calc(100% + 10px);
     left: 0;
-    width: 100%;
+    width: 10%;
     height: 0;
     background-color: var(--primary-color);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.09);
