@@ -21,3 +21,21 @@ const searcherBar = document.querySelector("#searcher");
 searcherBar.addEventListener("click", () => {
     searcherBar.classList.toggle("active");
 });
+
+/* searcher products */
+
+const product = document.querySelectorAll(".product");
+
+searcherBar.addEventListener("keyup", (event) => {
+    const searchTerm = event.target.value.toLowerCase();
+    product.forEach((product) => {
+        const title = product.querySelector("h3").textContent.toLocaleLowerCase();
+        const description = product.querySelector("p").textContent.toLocaleLowerCase();
+        if (title.includes(searchTerm) || description.includes(searchTerm)) {
+            product.classList.add("show");
+        }
+        else {
+            product.classList.remove("show");
+        }
+    });
+});
