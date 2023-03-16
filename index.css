@@ -169,8 +169,6 @@ body {
     border: 1px solid var(--primary-color);
     background: rgb( 184, 184, 184, .3);
     top: 35px;
-    left: 0;
-    right: 0;
     border-radius: 6px;
 
 }
