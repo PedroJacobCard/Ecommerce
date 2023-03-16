@@ -143,8 +143,8 @@ body {
     background-color: var(--secondary-color);
     padding: 4px;
     border-radius: 50%;
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
 }
 
 #searcher input {
@@ -154,8 +154,8 @@ body {
     padding: 4px;
     outline: none;
     border-radius: 10px;
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 #searcher-bg {
