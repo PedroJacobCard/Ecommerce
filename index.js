@@ -17,3 +17,18 @@ if (close) {
 
 /* searcher products */
 
+const searchBox = document.getElementsByClassName("search-box")[0];
+const products = document.querySelectorAll(".pro");
+
+window.addEventListener("load", () => {
+    products.forEach(element => {
+        const {img, h3, h5} = element;
+        let card = document.createElement("a");
+        card.innerHTML = `<img src="${img}" alt="">
+        <div class="product-details">
+            <h3>${h3}</h3>
+            <p>${h5}</p>
+        </div> `;
+        searchBox.appendChild(card);
+    });
+});

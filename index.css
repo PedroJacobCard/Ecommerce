@@ -198,12 +198,12 @@ body {
     color: var(--secondary-color);
 }
 
-#searcher .search-box a .product-details h6 {
+#searcher .search-box a .product-details h3 {
     font-size: 13px;
     font-family: var(--secondary-font);
 }
 
-#searcher .search-box a .product-details p {
+#searcher .search-box a .product-details h5 {
     font-size: 10px;
 }
 
