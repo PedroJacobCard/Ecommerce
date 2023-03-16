@@ -20,6 +20,7 @@ const searcherBar = document.querySelector("#searcher");
 
 searcherBar.addEventListener("click", () => {
     searcherBar.classList.toggle("active");
+    searcherBar.classList.toggle("show");
 });
 
 /* searcher products */
