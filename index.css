@@ -147,6 +147,15 @@ body {
     border-bottom-right-radius: 0;
 }
 
+#searcher input {
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
+    padding: 4px;
+    border-radius: 50%;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
 #searcher-bg {
     position: absolute;
     top: 100%;
