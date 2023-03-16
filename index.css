@@ -141,7 +141,8 @@ body {
 #searcher i{
     color: var(--primary-color);
     background-color: var(--secondary-color);
-    padding: 4px 4px 5px 6px;
+    padding: 4px 4px 5px;
+    align-items: flex-start;
     white-space: nowrap;
     cursor: pointer;
     border-radius: 50%;
