@@ -80,6 +80,7 @@ body {
     justify-content: end;
     margin: 1rem auto;
     margin-right: 0;
+    position: relative;
 }
 
 #navbar {
@@ -137,7 +138,7 @@ body {
     padding: 0 20px;
 }
 
-#searcher input {
+.searcher-bg {
     
 }
 
