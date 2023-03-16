@@ -13,3 +13,11 @@ if (close) {
         nav.classList.remove("active");
     });
 }
+
+/* searcher bg appearence */
+
+const searcherBar = document.querySelector("#searcher");
+
+searcherBar.addEventListener("click", () => {
+    searcherBar.classList.toggle("active");
+});

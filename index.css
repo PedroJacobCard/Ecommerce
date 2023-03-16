@@ -150,6 +150,10 @@ body {
     z-index: -1;
 }
 
+#searcher.active + #searcher-bg {
+    height: calc(100vh - 100px);
+}
+
 /*here starts hero section*/
 
 #hero {
