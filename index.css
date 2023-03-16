@@ -163,7 +163,7 @@ body {
 }
 
 #searcher .search-box {
-    width: 240px;
+    width: 235px;
     height: 300px;
     position: absolute;
     border: 1px solid var(--primary-color);
