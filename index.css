@@ -178,6 +178,14 @@ body {
     height: calc(100vh - 100px);
 }
 
+.product {
+    display: none;
+}
+
+.product .show {
+    display: block;
+}
+
 /*here starts hero section*/
 
 #hero {
