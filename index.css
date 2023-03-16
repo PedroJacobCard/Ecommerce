@@ -163,12 +163,12 @@ body {
 }
 
 #searcher .search-box {
-    width: 235px;
+    width: 234px;
     height: 300px;
     position: absolute;
     border: 1px solid var(--primary-color);
     background: rgb( 184, 184, 184, .3);
-    top: 26px;
+    top: 20px;
     border-radius: 6px;
     z-index: -1;
 }
