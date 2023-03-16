@@ -139,7 +139,15 @@ body {
 }
 
 .searcher-bg {
-    
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    height: 0;
+    background-color: var(--primary-color);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.09);
+    transition: height 0.3s ease;
+    z-index: -1;
 }
 
 /*here starts hero section*/
