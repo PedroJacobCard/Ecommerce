@@ -167,6 +167,7 @@ body {
     height: 300px;
     position: absolute;
     border: 1px solid var(--primary-color);
+    background-color: var(--secondary-color);
 }
 
 /*here starts hero section*/
