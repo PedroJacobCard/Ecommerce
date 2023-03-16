@@ -14,29 +14,6 @@ if (close) {
     });
 }
 
-/* searcher bg appearence */
-
-const searcherBar = document.querySelector("#searcher");
-
-searcherBar.addEventListener("click", () => {
-    searcherBar.classList.toggle("active");
-    searcherBar.classList.add("show");
-});
 
 /* searcher products */
 
-const product = document.querySelectorAll(".product");
-
-searcherBar.addEventListener("keyup", (event) => {
-    const searchTerm = event.target.value.toLowerCase();
-    product.forEach((prod) => {
-        const title = prod.querySelector("h3").textContent.toLocaleLowerCase();
-        const description = prod.querySelector("p").textContent.toLocaleLowerCase();
-        if (title.includes(searchTerm) || description.includes(searchTerm)) {
-            prod.classList.add("show");
-        }
-        else {
-            prod.classList.remove("show");
-        }
-    });
-});
