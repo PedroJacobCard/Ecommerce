@@ -28,14 +28,14 @@ const product = document.querySelectorAll(".product");
 
 searcherBar.addEventListener("keyup", (event) => {
     const searchTerm = event.target.value.toLowerCase();
-    product.forEach((product) => {
-        const title = product.querySelector("h3").textContent.toLocaleLowerCase();
-        const description = product.querySelector("p").textContent.toLocaleLowerCase();
+    product.forEach((prod) => {
+        const title = prod.querySelector("h3").textContent.toLocaleLowerCase();
+        const description = prod.querySelector("p").textContent.toLocaleLowerCase();
         if (title.includes(searchTerm) || description.includes(searchTerm)) {
-            product.classList.add("show");
+            prod.classList.add("show");
         }
         else {
-            product.classList.remove("show");
+            prod.classList.remove("show");
         }
     });
 });
