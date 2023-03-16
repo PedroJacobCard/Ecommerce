@@ -138,7 +138,7 @@ body {
     padding: 0 20px;
 }
 
-.searcher-bg {
+#searcher-bg {
     position: absolute;
     top: 100%;
     left: 0;
