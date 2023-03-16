@@ -17,7 +17,7 @@ if (close) {
 
 /* searcher products */
 
-const searchBox = document.getElementsByClassName("search-box")[0];
+const searchBox = document.getElementsByClassName(".search-box")[0];
 const products = document.querySelectorAll(".pro");
 
 window.addEventListener("load", () => {
