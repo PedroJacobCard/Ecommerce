@@ -161,7 +161,10 @@ body {
     border-bottom-right-radius: 0;
 }
 
-
+#searcher .search-box {
+    width: 200px;
+    height: 300px;
+}
 
 /*here starts hero section*/
 
