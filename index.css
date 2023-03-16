@@ -168,9 +168,8 @@ body {
     position: absolute;
     border: 1px solid var(--primary-color);
     background: rgb( 184, 184, 184, .3);
-    top: 35px;
+    top: 30px;
     border-radius: 6px;
-
 }
 
 /*here starts hero section*/
