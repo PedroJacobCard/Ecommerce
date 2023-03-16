@@ -80,6 +80,7 @@ body {
     justify-content: end;
     margin: 1rem auto;
     margin-right: 0;
+    position: relative;
 }
 
 #navbar {
