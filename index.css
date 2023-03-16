@@ -194,7 +194,7 @@ body {
 
 #searcher .search-box a .product-details h6 {
     font-size: 13px;
-    z-index: 1;
+    font-family: var(--secondary-font);
 }
 
 #searcher .search-box a .product-details p {
