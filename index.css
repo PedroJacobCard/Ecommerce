@@ -162,7 +162,7 @@ body {
     border-bottom-right-radius: 0;
 }
 
-#searcher .search-box {
+#header .search-box {
     width: 200px;
     height: 300px;
     position: absolute;
