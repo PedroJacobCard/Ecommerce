@@ -188,6 +188,18 @@ body {
     border-radius: 5px;
 }
 
+#searcher .search-box a .product-details {
+    color: var(--secondary-color);
+}
+
+#searcher .search-box a .product-details h6 {
+    font-size: 13px;
+}
+
+#searcher .search-box a .product-details p {
+    font-size: 10px;
+}
+
 /*here starts hero section*/
 
 #hero {
