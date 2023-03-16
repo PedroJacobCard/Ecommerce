@@ -142,7 +142,7 @@ body {
     color: var(--primary-color);
     background-color: var(--secondary-color);
     padding: 4px 4px 5px;
-    align-items: flex-start;
+    align-items: start;
     white-space: nowrap;
     cursor: pointer;
     border-radius: 50%;
