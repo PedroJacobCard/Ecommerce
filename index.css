@@ -15,6 +15,11 @@
     font-family: var(--secondary-font);
 }
 
+*::-webkit-scrollbar {
+    width: 10px;
+    background-color: var(--secondary-color);
+}
+
 h1 {
     font-family: var(--primary-font);
     color: var(--primary-color);
