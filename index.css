@@ -165,6 +165,8 @@ body {
 #searcher .search-box {
     width: 200px;
     height: 300px;
+    position: absolute;
+    border: 1px solid var(--primary-color);
 }
 
 /*here starts hero section*/
