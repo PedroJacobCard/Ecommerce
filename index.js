@@ -22,7 +22,9 @@ const products = document.querySelectorAll(".pro");
 
 window.addEventListener("load", () => {
     products.forEach(element => {
-        const {img, h3, h5} = element;
+        const img = element.querySelectorAll("img").getAttribute("src");
+        const h3 = element.querySelectorAll("h3").innerText;
+        const h5 = element.querySelectorAll("h5").innerText;
         let card = document.createElement("a");
         card.innerHTML = `<img src="${img}" alt="">
         <div class="product-details">
