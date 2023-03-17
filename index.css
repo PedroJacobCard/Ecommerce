@@ -189,6 +189,7 @@ body {
     overflow: auto;
     visibility: hidden;
     opacity: 0;
+    transition: .3s linear;
 }
 
 #searcher .search-box::-webkit-scrollbar {
