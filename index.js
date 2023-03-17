@@ -44,19 +44,19 @@ window.addEventListener("load", () => {
     });
 });
 
-searchItems.addEventListener('keyup', () => {
+searchItems.addEventListener("keyup", () => {
     let filter = searchItems.ariaValueMax.toLocaleUpperCase();
-    let a = searchBox.getElementsByTagName('a');
+    let a = searchBox.getElementsByTagName("a");
     for (let i = 0; i < a.length; i++){
-        let b = a[i].getElementsByClassName('product-details')[0];
-        let c = b.getElementsByTagName('h3')[0];
+        let b = a[i].getElementsByClassName("product-details")[0];
+        let c = b.getElementsByTagName("h3")[0];
 
         let textValue = c.textContent || c.innerText;
         if (textValue.toUpperCase().indexOf(filter) > -1) {
-            a[i].style.display = '';
+            a[i].style.display = "";
         }
         else {
-            a[i].style.display = 'none';
+            a[i].style.display = "none";
         }
     }
 })
