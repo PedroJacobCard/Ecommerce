@@ -54,13 +54,16 @@ searchItems.addEventListener("keyup", () => {
         let textValue = c.textContent || c.innerText;
         if (textValue.toUpperCase().indexOf(filter) > -1) {
             a[i].style.display = "";
+            searchBox.style.visibility = "visible";
+            searchBox.style.opacity = 1;
         }
         else {
             a[i].style.display = "none";
         }
 
         if (searchItems.value == 0) {
-            
+            searchBox.style.visibility = "hidden";
+            searchBox.style.opacity = 0;
         }
     }
 })
