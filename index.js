@@ -49,7 +49,7 @@ searchItems.addEventListener("keyup", () => {
     let a = searchBox.getElementsByTagName("a");
     for (let i = 0; i < a.length; i++){
         let b = a[i].querySelectorAll(".product-details");
-        let c = b.querySelectorAll("h3");
+        let c = b.querySelector("h3");
 
         let textValue = c.textContent || c.innerText;
         if (textValue.toUpperCase().indexOf(filter) > -1) {
