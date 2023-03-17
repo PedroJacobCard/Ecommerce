@@ -1634,6 +1634,10 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
         display: initial;
     }
     
+    #searcher {
+        display: none;
+    }
+
     #lg-bag {
         display: none;
     }
