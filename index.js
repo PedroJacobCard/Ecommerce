@@ -13,7 +13,7 @@ if (bar) {
 if (close) {
     close.addEventListener("click", () => {
         nav.classList.remove("active");
-        searcher.style.display = "block";
+        searcher.style.display = "flex";
     });
 }
 
