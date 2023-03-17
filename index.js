@@ -45,7 +45,7 @@ window.addEventListener("load", () => {
 });
 
 searchItems.addEventListener("keyup", () => {
-    let filter = searchItems.ariaValueMax.toLocaleUpperCase();
+    let filter = searchItems.value.toLocaleUpperCase();
     let a = searchBox.getElementsByTagName("a");
     for (let i = 0; i < a.length; i++){
         let b = a[i].getElementsByClassName("product-details")[0];
