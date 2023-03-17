@@ -1379,6 +1379,10 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
     overflow-x: auto;
 }
 
+#cart::-webkit-scrollbar {
+    width: 5px;
+}
+
 #cart table {
     width: 90%;
     border-collapse: collapse;
