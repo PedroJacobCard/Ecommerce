@@ -187,6 +187,8 @@ body {
     z-index: -1;
     padding-top: 10px;
     overflow: auto;
+    visibility: hidden;
+    opacity: 0;
 }
 
 #searcher .search-box::-webkit-scrollbar {

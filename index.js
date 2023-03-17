@@ -58,5 +58,9 @@ searchItems.addEventListener("keyup", () => {
         else {
             a[i].style.display = "none";
         }
+
+        if (searchItems.value == 0) {
+            
+        }
     }
 })
