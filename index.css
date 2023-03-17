@@ -76,7 +76,7 @@ body {
 #header {
     display: flex;
     align-items: center;
-    justify-content: none;
+    justify-content: space-between;
     flex-wrap: wrap;
     padding: 20px 80px;
     background-color: var(--primary-color);
