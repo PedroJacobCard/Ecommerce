@@ -55,7 +55,7 @@ searchItems.addEventListener("keyup", () => {
         if (textValue.toUpperCase().indexOf(filter) > -1) {
             a[i].style.display = "";
             searchBox.style.visibility = "visible";
-            searchBox.style.opacity = -1;
+            searchBox.style.opacity = 1;
         }
         else {
             a[i].style.display = "none";
