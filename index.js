@@ -25,7 +25,7 @@ window.addEventListener("load", () => {
         const img = element.querySelector("img").getAttribute("src");
         const h3 = element.querySelector("h3").innerText;
         const h5 = element.querySelector("h5").innerText;
-        const url = element.querySelector("div").getAttribute("onclick");
+        const url = element.querySelector("a").getAttribute("href");
 
         let card = document.createElement("div");
         card.classList.add("product-card");
