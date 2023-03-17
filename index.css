@@ -182,7 +182,7 @@ body {
     position: absolute;
     background: rgb( 184, 184, 184, .3);
     top: 20px;
-    right: 0px;
+    margin-right: 1px;
     border-radius: 6px;
     z-index: -1;
     padding-top: 10px;
