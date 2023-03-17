@@ -17,8 +17,8 @@ if (close) {
 
 /* searcher products */
 
-const searchItems = document.querySelector("#search-items");
-const searchBox = document.getElementsByClassName(".search-box")[0];
+const searchItems = document.getElementById("search-items");
+const searchBox = document.getElementsByClassName("search-box")[0];
 const products = document.querySelectorAll(".pro");
 
 window.addEventListener("load", () => {
@@ -55,7 +55,7 @@ searchItems.addEventListener("keyup", () => {
         if (textValue.toUpperCase().indexOf(filter) > -1) {
             a[i].style.display = "";
             searchBox.style.visibility = "visible";
-            searchBox.style.opacity = 1;
+            searchBox.style.opacity = -1;
         }
         else {
             a[i].style.display = "none";
