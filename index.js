@@ -18,7 +18,7 @@ if (close) {
 /* searcher products */
 
 const searchItems = document.querySelector("#search-items");
-const searchBox = document.querySelectorAll(".search-box");
+const searchBox = document.querySelector(".search-box");
 const products = document.querySelectorAll(".pro");
 
 window.addEventListener("load", () => {
@@ -46,9 +46,9 @@ window.addEventListener("load", () => {
 
 searchItems.addEventListener("keyup", () => {
     let filter = searchItems.value.toLocaleUpperCase();
-    let a = searchBox.querySelector("a");
+    let a = searchBox.getElementsByTagName("a");
     for (let i = 0; i < a.length; i++){
-        let b = a[i].querySelectorAll(".product-details");
+        let b = a[i].querySelector(".product-details");
         let c = b.querySelector("h3");
 
         let textValue = c.textContent || c.innerText;
