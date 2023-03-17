@@ -27,11 +27,15 @@ window.addEventListener("load", () => {
         const h5 = element.querySelector("h5").innerText;
         const url = element.querySelector("onclick").innerText;
         let card = document.createElement("a");
-        card.innerHTML = `<img src="${img}" alt="">
+        card.innerHTML = `<a href="${url}">
+        <img src="${img}" alt="">
         <div class="product-details">
             <h3>${h3}</h3>
             <p>${h5}</p>
-        </div> `;
+        </div>  
+        </a>`;
+        
+                   
         searchBox.appendChild(card);
     });
 });
