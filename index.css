@@ -17,6 +17,7 @@
 
 *::-webkit-scrollbar {
     width: 10px;
+    height: 5px;
 }
 
 *::-webkit-scrollbar-track {
@@ -1377,7 +1378,6 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
 
 #cart {
     overflow-x: auto;
-    height: 5px;
 }
 
 #cart table {
