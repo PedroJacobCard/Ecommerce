@@ -25,6 +25,7 @@ window.addEventListener("load", () => {
         const img = element.querySelector("img").getAttribute("src");
         const h3 = element.querySelector("h3").innerText;
         const h5 = element.querySelector("h5").innerText;
+        const url = element.querySelector("onclick").innerText;
         let card = document.createElement("a");
         card.innerHTML = `<img src="${img}" alt="">
         <div class="product-details">
