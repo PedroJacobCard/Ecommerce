@@ -16,7 +16,7 @@
 }
 
 *::-webkit-scrollbar {
-    width: 7px;
+    width: 2px;
     background-color: var(--secondary-color);
     border-radius: 30px;
 }
