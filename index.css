@@ -20,6 +20,11 @@
     background-color: var(--secondary-color);
 }
 
+*::-webkit-scrollbar-track {
+    width: 10px;
+    background-color: var(--primary-color);
+}
+
 h1 {
     font-family: var(--primary-font);
     color: var(--primary-color);
