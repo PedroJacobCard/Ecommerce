@@ -20,7 +20,7 @@
 }
 
 *::-webkit-scrollbar-track {
-    background-color: var(--secondary-color);
+    background-color: rgb( 184, 184, 184, .7);
     border-radius: 30px;
 }
 
