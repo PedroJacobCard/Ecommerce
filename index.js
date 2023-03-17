@@ -46,7 +46,7 @@ window.addEventListener("load", () => {
 
 searchItems.addEventListener("keyup", () => {
     let filter = searchItems.value.toLocaleUpperCase();
-    let a = searchBox.getElementsByTagName("a");
+    let a = searchBox.querySelector("a");
     for (let i = 0; i < a.length; i++){
         let b = a[i].querySelectorAll(".product-details");
         let c = b.querySelector("h3");
