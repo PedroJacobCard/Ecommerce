@@ -218,6 +218,7 @@ body {
 
 #searcher .search-box a .product-details {
     color: var(--secondary-color);
+    margin-top: -10px;
 }
 
 #searcher .search-box a .product-details h3 {
