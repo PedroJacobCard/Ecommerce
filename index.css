@@ -1616,7 +1616,7 @@ svg#freepik_stories-shopping-bag.animated #freepik--Stars--inject-50 {
         margin: 1rem auto;
         margin-right: 0;
         padding: 0 20px;
-        z-index: 999;
+        z-index: 2;
     }
     
     #mobile i {
